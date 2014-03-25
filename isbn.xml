@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[G0YLe4KJic94J0Bi0zeBQ]]></key>
+    <method><![CDATA[book_isbn]]></method>
+  </Request>
+  <book>
+  <id>53732</id>
+  <title>Dune (Dune Chronicles, #1)</title>
+  <isbn><![CDATA[0441172717]]></isbn>
+  <isbn13><![CDATA[9780441172719]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <publication_year>1990</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Ace/Berkley Books</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Here is the novel that will be forever considered a triumph of the imagination. Set on the desert planet Arrakis, <strong>Dune</strong> is the story of the boy Paul Atreides, who would become the mysterious man known as Muad'Dib. He would avenge the traitorous plot against his noble family--and would bring to fruition humankind's most ancient and unattainable dream.<br> A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what it undoubtedly the grandest epic in science fiction.]]></description>
+  <work>
+  <best_book_id type="integer">234225</best_book_id>
+  <books_count type="integer">70</books_count>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <desc_user_id type="integer">1317471</desc_user_id>
+  <id type="integer">3634639</id>
+  <media_type>book</media_type>
+  <original_language_id type="integer" nil="true"/>
+  <original_publication_day type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_year type="integer">1965</original_publication_year>
+  <original_title>Dune</original_title>
+  <rating_dist>3:50993|4:93396|5:146278|2:16740|1:11087|total:318494</rating_dist>
+  <ratings_count type="integer">336333</ratings_count>
+  <ratings_sum type="integer">1380190</ratings_sum>
+  <reviews_count type="integer">466148</reviews_count>
+  <text_reviews_count type="integer">7438</text_reviews_count>
+</work>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[536]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Special 25th Anniversary Edition]]></edition_information>
+  <ratings_count><![CDATA[6394]]></ratings_count>
+  <text_reviews_count><![CDATA[606]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53732.Dune]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53732.Dune]]></link>
+  <authors>
+  <author>
+    <id>58</id>
+    <name>Frank Herbert</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p5/58.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p2/58.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>584797</ratings_count>
+    <text_reviews_count>12117</text_reviews_count>
+  </author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/53732.Dune">Dune Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441172717&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a href="https://www.goodreads.com/book/show/53732.Dune?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="111050"/>
+      <shelf name="science-fiction" count="6313"/>
+      <shelf name="sci-fi" count="5344"/>
+      <shelf name="currently-reading" count="4560"/>
+      <shelf name="favorites" count="3239"/>
+      <shelf name="fiction" count="2462"/>
+      <shelf name="fantasy" count="1683"/>
+      <shelf name="scifi" count="1188"/>
+      <shelf name="classics" count="976"/>
+      <shelf name="sci-fi-fantasy" count="751"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>1</id>
+  <name>Amazon</name>
+  <link>https://www.goodreads.com/book_link/follow/1</link>
+</book_link>
+<book_link>
+  <id>3</id>
+  <name>Barnes &amp; Noble</name>
+  <link>https://www.goodreads.com/book_link/follow/3</link>
+</book_link>
+<book_link>
+  <id>1027</id>
+  <name>Kobo</name>
+  <link>https://www.goodreads.com/book_link/follow/1027</link>
+</book_link>
+<book_link>
+  <id>4</id>
+  <name>Abebooks</name>
+  <link>https://www.goodreads.com/book_link/follow/4</link>
+</book_link>
+<book_link>
+  <id>10</id>
+  <name>Audible</name>
+  <link>https://www.goodreads.com/book_link/follow/10</link>
+</book_link>
+<book_link>
+  <id>882</id>
+  <name>Book Depository</name>
+  <link>https://www.goodreads.com/book_link/follow/882</link>
+</book_link>
+<book_link>
+  <id>9</id>
+  <name>Indigo</name>
+  <link>https://www.goodreads.com/book_link/follow/9</link>
+</book_link>
+<book_link>
+  <id>2</id>
+  <name>Half.com</name>
+  <link>https://www.goodreads.com/book_link/follow/2</link>
+</book_link>
+<book_link>
+  <id>5</id>
+  <name>Alibris</name>
+  <link>https://www.goodreads.com/book_link/follow/5</link>
+</book_link>
+<book_link>
+  <id>2102</id>
+  <name>iBooks</name>
+  <link>https://www.goodreads.com/book_link/follow/2102</link>
+</book_link>
+<book_link>
+  <id>107</id>
+  <name>Better World Books</name>
+  <link>https://www.goodreads.com/book_link/follow/107</link>
+</book_link>
+<book_link>
+  <id>3928</id>
+  <name>Target.com</name>
+  <link>https://www.goodreads.com/book_link/follow/3928</link>
+</book_link>
+<book_link>
+  <id>1602</id>
+  <name>Google Play</name>
+  <link>https://www.goodreads.com/book_link/follow/1602</link>
+</book_link>
+<book_link>
+  <id>7</id>
+  <name>IndieBound</name>
+  <link>https://www.goodreads.com/book_link/follow/7</link>
+</book_link>
+<book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <series_works>
+    <series_work>
+<id>166801</id>
+<user_position>1</user_position>
+<series>
+<id>45935</id>
+<title>
+<![CDATA[
+    Dune Chronicles
+]]>
+</title>
+<description>
+<![CDATA[
+    Also known as Dune Saga, Kroniki Diuny and Dyyni.
+    
+    The first six volumes of this series have also been published as a <a href="http://www.goodreads.com/series/58317-il-ciclo-di-dune">two-volume omnibus series</a>.
+    
+    See also:
+    * <a href="http://www.goodreads.com/series/49401-prelude-to-dune">Prelude to Dune</a>
+    * <a href="http://www.goodreads.com/series/45567-legends-of-dune">Legends of Dune</a>
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>21</series_works_count>
+<primary_work_count>6</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>514666</id>
+<user_position>10</user_position>
+<series>
+<id>106170</id>
+<title>
+<![CDATA[
+    Dune Universe
+]]>
+</title>
+<description>
+<![CDATA[
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>24</series_works_count>
+<primary_work_count>21</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>99218</id>
+<title><![CDATA[The Machine Crusade (Legends of Dune, #2)]]></title>
+<isbn>076534078X</isbn>
+<isbn13>9780765340788</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.67</average_rating>
+<ratings_count>6922</ratings_count>
+<authors>
+  <author>
+    <id>56</id>
+    <name>Brian Herbert</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>76740</id>
+<title>The Demolished Man</title>
+<isbn>1857988221</isbn>
+<isbn13>9781857988222</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1360171879s/76740.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1360171879m/76740.jpg]]></image_url>
+<average_rating>4.02</average_rating>
+<ratings_count>12682</ratings_count>
+<authors>
+  <author>
+    <id>10992</id>
+    <name>Alfred Bester</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>41818</id>
+<title>Robot Dreams (Robot, #0.4)</title>
+<isbn>0441011837</isbn>
+<isbn13>9780441011834</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206791s/41818.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206791m/41818.jpg]]></image_url>
+<average_rating>4.08</average_rating>
+<ratings_count>4478</ratings_count>
+<authors>
+  <author>
+    <id>16667</id>
+    <name>Isaac Asimov</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>276767</id>
+<title>The Word for World is Forest</title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1283091038s/276767.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1283091038m/276767.jpg]]></image_url>
+<average_rating>3.86</average_rating>
+<ratings_count>3497</ratings_count>
+<authors>
+  <author>
+    <id>874602</id>
+    <name>Ursula K. Le Guin</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>77566</id>
+<title><![CDATA[Hyperion (Hyperion Cantos, #1)]]></title>
+<isbn>0553283685</isbn>
+<isbn13>9780553283686</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332885131s/77566.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332885131m/77566.jpg]]></image_url>
+<average_rating>4.15</average_rating>
+<ratings_count>62357</ratings_count>
+<authors>
+  <author>
+    <id>2687</id>
+    <name>Dan Simmons</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>89184</id>
+<title><![CDATA[Absolution Gap (Revelation Space, #3)]]></title>
+<isbn>0441012914</isbn>
+<isbn13>9780441012916</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309210984s/89184.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309210984m/89184.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>6151</ratings_count>
+<authors>
+  <author>
+    <id>51204</id>
+    <name>Alastair Reynolds</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>88071</id>
+<title><![CDATA[The Last Colony (Old Man's War, #3)]]></title>
+<isbn>0765316978</isbn>
+<isbn13>9780765316974</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.98</average_rating>
+<ratings_count>13134</ratings_count>
+<authors>
+  <author>
+    <id>4763</id>
+    <name>John Scalzi</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>189147</id>
+<title><![CDATA[To Your Scattered Bodies Go (Riverworld, #1)]]></title>
+<isbn>0345419677</isbn>
+<isbn13>9780345419675</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327657439s/189147.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327657439m/189147.jpg]]></image_url>
+<average_rating>3.93</average_rating>
+<ratings_count>14851</ratings_count>
+<authors>
+  <author>
+    <id>10089</id>
+    <name>Philip José Farmer</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>229021</id>
+<title>Rite of Passage</title>
+<isbn>0978907825</isbn>
+<isbn13>9780978907822</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334659898s/229021.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334659898m/229021.jpg]]></image_url>
+<average_rating>3.93</average_rating>
+<ratings_count>1360</ratings_count>
+<authors>
+  <author>
+    <id>26068</id>
+    <name>Alexei Panshin</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>61179</id>
+<title>Ringworld (Ringworld, #1)</title>
+<isbn>0575077026</isbn>
+<isbn13>9780575077027</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>44885</ratings_count>
+<authors>
+  <author>
+    <id>12534</id>
+    <name>Larry Niven</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>77507</id>
+<title>Red Mars (Mars Trilogy, #1)</title>
+<isbn>0553560735</isbn>
+<isbn13>9780553560732</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.80</average_rating>
+<ratings_count>25000</ratings_count>
+<authors>
+  <author>
+    <id>1858</id>
+    <name>Kim Stanley Robinson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>112537</id>
+<title><![CDATA[Rendezvous with Rama (Rama, #1)]]></title>
+<isbn>1857231589</isbn>
+<isbn13>9781857231588</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1357153807s/112537.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1357153807m/112537.jpg]]></image_url>
+<average_rating>3.99</average_rating>
+<ratings_count>52355</ratings_count>
+<authors>
+  <author>
+    <id>7779</id>
+    <name>Arthur C. Clarke</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>68483</id>
+<title><![CDATA[The Vor Game (Vorkosigan Saga, #6)]]></title>
+<isbn>0671720147</isbn>
+<isbn13>9780671720148</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322571824s/68483.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322571824m/68483.jpg]]></image_url>
+<average_rating>4.25</average_rating>
+<ratings_count>8559</ratings_count>
+<authors>
+  <author>
+    <id>16094</id>
+    <name>Lois McMaster Bujold</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>7082</id>
+<title><![CDATA[Do Androids Dream of Electric Sheep?]]></title>
+<isbn>0345404475</isbn>
+<isbn13>9780345404473</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327865673s/7082.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327865673m/7082.jpg]]></image_url>
+<average_rating>4.05</average_rating>
+<ratings_count>122292</ratings_count>
+<authors>
+  <author>
+    <id>4764</id>
+    <name>Philip K. Dick</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>22871</id>
+<title><![CDATA[The Gap Into Madness: Chaos and Order (Gap, #4)]]></title>
+<isbn>0553071793</isbn>
+<isbn13>9780553071795</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383397098s/22871.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383397098m/22871.jpg]]></image_url>
+<average_rating>4.09</average_rating>
+<ratings_count>2758</ratings_count>
+<authors>
+  <author>
+    <id>12980</id>
+    <name>Stephen R. Donaldson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>45244</id>
+<title><![CDATA[Judas Unchained (Commonwealth Saga, #2)]]></title>
+<isbn>0345461665</isbn>
+<isbn13>9780345461667</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316501189s/45244.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316501189m/45244.jpg]]></image_url>
+<average_rating>4.27</average_rating>
+<ratings_count>11328</ratings_count>
+<authors>
+  <author>
+    <id>25375</id>
+    <name>Peter F. Hamilton</name>
+  </author>
+</authors>
+</book>
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
