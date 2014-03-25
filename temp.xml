@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[G0YLe4KJic94J0Bi0zeBQ]]></key>
+    <method><![CDATA[book_isbn]]></method>
+  </Request>
+  <book>
+  <id>3850639</id>
+  <title>A Thousand Splendid Suns</title>
+  <isbn><![CDATA[159448385X]]></isbn>
+  <isbn13><![CDATA[9781594483851]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363129062m/3850639.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363129062s/3850639.jpg</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>11</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Riverhead Trade</publisher>
+  <language_code>en-US</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[After 103 weeks on the <em>New York Times</em> bestseller list and with four million copies of <em>The Kite Runner</em> shipped, Khaled Hosseini returns with a beautiful, riveting, and haunting novel that confirms his place as one of the most important literary writers today.<br><br> Propelled by the same superb instinct for storytelling that made <em>The Kite Runner</em> a beloved classic, <em>A Thousand Splendid Suns</em> is at once an incredible chronicle of thirty years of Afghan history and a deeply moving story of family, friendship, faith, and the salvation to be found in love.<br><br> Born a generation apart and with very different ideas about love and family, Mariam and Laila are two women brought jarringly together by war, by loss and by fate. As they endure the ever escalating dangers around them-in their home as well as in the streets of Kabul-they come to form a bond that makes them both sisters and mother-daughter to each other, and that will ultimately alter the course not just of their own lives but of the next generation. With heart-wrenching power and suspense, Hosseini shows how a woman's love for her family can move her to shocking and heroic acts of self-sacrifice, and that in the end it is love, or even the memory of love, that is often the key to survival.<br><br>A stunning accomplishment, <em>A Thousand Splendid Suns</em> is a haunting, heartbreaking, compelling story of an unforgiving time, an unlikely friendship, and an indestructible love.<br><br><strong>
+  <br></strong>]]></description>
+  <work>
+  <best_book_id type="integer">128029</best_book_id>
+  <books_count type="integer">156</books_count>
+  <default_chaptering_book_id type="integer" nil="true"/>
+  <default_description_language_code nil="true"/>
+  <desc_user_id type="integer">5581651</desc_user_id>
+  <id type="integer">3271379</id>
+  <media_type>book</media_type>
+  <original_language_id type="integer" nil="true"/>
+  <original_publication_day type="integer">22</original_publication_day>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_year type="integer">2006</original_publication_year>
+  <original_title>A Thousand Splendid Suns</original_title>
+  <rating_dist>5:206100|4:149354|2:10143|3:54299|1:3253|total:423149</rating_dist>
+  <ratings_count type="integer">489027</ratings_count>
+  <ratings_sum type="integer">2102644</ratings_sum>
+  <reviews_count type="integer">703086</reviews_count>
+  <text_reviews_count type="integer">31870</text_reviews_count>
+</work>
+  <average_rating>4.30</average_rating>
+  <num_pages><![CDATA[415]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[4261]]></ratings_count>
+  <text_reviews_count><![CDATA[628]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns]]></link>
+  <authors>
+  <author>
+    <id>569</id>
+    <name>Khaled Hosseini</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p5/569.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p2/569.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
+    <average_rating>4.22</average_rating>
+    <ratings_count>1696006</ratings_count>
+    <text_reviews_count>90572</text_reviews_count>
+  </author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns">A Thousand Splendid Suns Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=159448385X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a href="https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="to-read" count="8350"/>
+      <shelf name="currently-reading" count="2978"/>
+      <shelf name="book-club" count="918"/>
+      <shelf name="favourites" count="462"/>
+      <shelf name="fiction" count="408"/>
+      <shelf name="contemporary" count="380"/>
+      <shelf name="afghanistan" count="371"/>
+      <shelf name="middle-east" count="353"/>
+      <shelf name="favorites" count="310"/>
+      <shelf name="novels" count="309"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>1</id>
+  <name>Amazon</name>
+  <link>https://www.goodreads.com/book_link/follow/1</link>
+</book_link>
+<book_link>
+  <id>3</id>
+  <name>Barnes &amp; Noble</name>
+  <link>https://www.goodreads.com/book_link/follow/3</link>
+</book_link>
+<book_link>
+  <id>1027</id>
+  <name>Kobo</name>
+  <link>https://www.goodreads.com/book_link/follow/1027</link>
+</book_link>
+<book_link>
+  <id>4</id>
+  <name>Abebooks</name>
+  <link>https://www.goodreads.com/book_link/follow/4</link>
+</book_link>
+<book_link>
+  <id>10</id>
+  <name>Audible</name>
+  <link>https://www.goodreads.com/book_link/follow/10</link>
+</book_link>
+<book_link>
+  <id>882</id>
+  <name>Book Depository</name>
+  <link>https://www.goodreads.com/book_link/follow/882</link>
+</book_link>
+<book_link>
+  <id>9</id>
+  <name>Indigo</name>
+  <link>https://www.goodreads.com/book_link/follow/9</link>
+</book_link>
+<book_link>
+  <id>2</id>
+  <name>Half.com</name>
+  <link>https://www.goodreads.com/book_link/follow/2</link>
+</book_link>
+<book_link>
+  <id>5</id>
+  <name>Alibris</name>
+  <link>https://www.goodreads.com/book_link/follow/5</link>
+</book_link>
+<book_link>
+  <id>2102</id>
+  <name>iBooks</name>
+  <link>https://www.goodreads.com/book_link/follow/2102</link>
+</book_link>
+<book_link>
+  <id>107</id>
+  <name>Better World Books</name>
+  <link>https://www.goodreads.com/book_link/follow/107</link>
+</book_link>
+<book_link>
+  <id>3928</id>
+  <name>Target.com</name>
+  <link>https://www.goodreads.com/book_link/follow/3928</link>
+</book_link>
+<book_link>
+  <id>1602</id>
+  <name>Google Play</name>
+  <link>https://www.goodreads.com/book_link/follow/1602</link>
+</book_link>
+<book_link>
+  <id>7</id>
+  <name>IndieBound</name>
+  <link>https://www.goodreads.com/book_link/follow/7</link>
+</book_link>
+<book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <series_works>
+    
+  </series_works>
+      <public_document>
+        <id>34323</id>
+        <document_url>
+          http://photo.goodreads.com/documents/1361487659books/128029.epub
+        </document_url>
+      </public_document>
+  <similar_books>
+          <book>
+<id>211264</id>
+<title>Fludd</title>
+<isbn>0007172893</isbn>
+<isbn13>9780007172894</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.53</average_rating>
+<ratings_count>814</ratings_count>
+<authors>
+  <author>
+    <id>58851</id>
+    <name>Hilary Mantel</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>6116753</id>
+<title>Boom!</title>
+<isbn>0385616295</isbn>
+<isbn13>9780385616294</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327910076s/6116753.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327910076m/6116753.jpg]]></image_url>
+<average_rating>3.37</average_rating>
+<ratings_count>1402</ratings_count>
+<authors>
+  <author>
+    <id>1050</id>
+    <name>Mark Haddon</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>10158656</id>
+<title>22 Britannia Road</title>
+<isbn>1611760038</isbn>
+<isbn13>9781611760033</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354984677s/10158656.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354984677m/10158656.jpg]]></image_url>
+<average_rating>3.60</average_rating>
+<ratings_count>4736</ratings_count>
+<authors>
+  <author>
+    <id>4567126</id>
+    <name>Amanda Hodgkinson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>85301</id>
+<title>Unaccustomed Earth</title>
+<isbn>0676979343</isbn>
+<isbn13>9780676979343</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140s/85301.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140m/85301.jpg]]></image_url>
+<average_rating>4.10</average_rating>
+<ratings_count>42726</ratings_count>
+<authors>
+  <author>
+    <id>3670</id>
+    <name>Jhumpa Lahiri</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>129783</id>
+<title>The Other Side of the Bridge</title>
+<isbn>0385340370</isbn>
+<isbn13>9780385340373</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.98</average_rating>
+<ratings_count>2447</ratings_count>
+<authors>
+  <author>
+    <id>5619</id>
+    <name>Mary Lawson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>1103</id>
+<title><![CDATA[Snow Flower and the Secret Fan]]></title>
+<isbn>0812968069</isbn>
+<isbn13>9780812968064</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508s/1103.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508m/1103.jpg]]></image_url>
+<average_rating>4.02</average_rating>
+<ratings_count>190485</ratings_count>
+<authors>
+  <author>
+    <id>713</id>
+    <name>Lisa See</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>3591262</id>
+<title>Cutting for Stone</title>
+<isbn>0375414495</isbn>
+<isbn13>9780375414497</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327931601s/3591262.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327931601m/3591262.jpg]]></image_url>
+<average_rating>4.26</average_rating>
+<ratings_count>153901</ratings_count>
+<authors>
+  <author>
+    <id>93353</id>
+    <name>Abraham Verghese</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>16527</id>
+<title>Daughter of Fortune</title>
+<isbn>0061120251</isbn>
+<isbn13>9780061120251</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1299666780s/16527.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1299666780m/16527.jpg]]></image_url>
+<average_rating>3.85</average_rating>
+<ratings_count>63459</ratings_count>
+<authors>
+  <author>
+    <id>2238</id>
+    <name>Isabel Allende</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>6452760</id>
+<title><![CDATA[Stones Into Schools: Promoting Peace With Books, Not Bombs, in Afghanistan and Pakistan]]></title>
+<isbn>0670021156</isbn>
+<isbn13>9780670021154</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260845553s/6452760.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260845553m/6452760.jpg]]></image_url>
+<average_rating>3.89</average_rating>
+<ratings_count>9884</ratings_count>
+<authors>
+  <author>
+    <id>27837</id>
+    <name>Greg Mortenson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>2138727</id>
+<title>Mudbound</title>
+<isbn>156512569X</isbn>
+<isbn13>9781565125698</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1296591096s/2138727.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1296591096m/2138727.jpg]]></image_url>
+<average_rating>3.98</average_rating>
+<ratings_count>28404</ratings_count>
+<authors>
+  <author>
+    <id>972440</id>
+    <name>Hillary Jordan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>5211</id>
+<title>A Fine Balance</title>
+<isbn>140003065X</isbn>
+<isbn13>9781400030651</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.32</average_rating>
+<ratings_count>65453</ratings_count>
+<authors>
+  <author>
+    <id>3539</id>
+    <name>Rohinton Mistry</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>3367956</id>
+<title><![CDATA[Hotel on the Corner of Bitter and Sweet]]></title>
+<isbn>0345505336</isbn>
+<isbn13>9780345505330</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.94</average_rating>
+<ratings_count>121756</ratings_count>
+<authors>
+  <author>
+    <id>1421619</id>
+    <name>Jamie Ford</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>94672</id>
+<title>Beneath a Marble Sky</title>
+<isbn>0451218469</isbn>
+<isbn13>9780451218469</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.99</average_rating>
+<ratings_count>8281</ratings_count>
+<authors>
+  <author>
+    <id>54450</id>
+    <name>John Shors</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>337615</id>
+<title><![CDATA[Nine Parts of Desire: The Hidden World of Islamic Women]]></title>
+<isbn>0385475772</isbn>
+<isbn13>9780385475778</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.03</average_rating>
+<ratings_count>6981</ratings_count>
+<authors>
+  <author>
+    <id>211268</id>
+    <name>Geraldine Brooks</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>587666</id>
+<title>Like the Flowing River </title>
+<isbn>0007235801</isbn>
+<isbn13>9780007235803</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356806433s/587666.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356806433m/587666.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>7735</ratings_count>
+<authors>
+  <author>
+    <id>566</id>
+    <name>Paulo Coelho</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>164814</id>
+<title>The Rice Mother</title>
+<isbn>0142004545</isbn>
+<isbn13>9780142004548</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206443s/164814.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206443m/164814.jpg]]></image_url>
+<average_rating>4.06</average_rating>
+<ratings_count>2010</ratings_count>
+<authors>
+  <author>
+    <id>95806</id>
+    <name>Rani Manicka</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>12555</id>
+<title>The Bonesetter&apos;s Daughter</title>
+<isbn>0345457374</isbn>
+<isbn13>9780345457370</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>69292</ratings_count>
+<authors>
+  <author>
+    <id>5246</id>
+    <name>Amy Tan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>218357</id>
+<title>The Space Between Us</title>
+<isbn>006079156X</isbn>
+<isbn13>9780060791568</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>19176</ratings_count>
+<authors>
+  <author>
+    <id>127875</id>
+    <name>Thrity Umrigar</name>
+  </author>
+</authors>
+</book>
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
