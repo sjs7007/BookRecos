@@ -6,57 +6,67 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>53732</id>
-  <title>Dune (Dune Chronicles, #1)</title>
-  <isbn><![CDATA[0441172717]]></isbn>
-  <isbn13><![CDATA[9780441172719]]></isbn13>
+  <id>167037</id>
+  <title><![CDATA[Harry Potter y la piedra (Harry Potter, #1)]]></title>
+  <isbn><![CDATA[847888856X]]></isbn>
+  <isbn13><![CDATA[9788478888566]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
-  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
-  <publication_year>1990</publication_year>
-  <publication_month>9</publication_month>
-  <publication_day>1</publication_day>
-  <publisher>Ace/Berkley Books</publisher>
-  <language_code>eng</language_code>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1385202976m/167037.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1385202976s/167037.jpg</small_image_url>
+  <publication_year>2004</publication_year>
+  <publication_month></publication_month>
+  <publication_day></publication_day>
+  <publisher>Salamandra Publicacions Y Edicions</publisher>
+  <language_code></language_code>
   <is_ebook>false</is_ebook>
-  <description><![CDATA[Here is the novel that will be forever considered a triumph of the imagination. Set on the desert planet Arrakis, <strong>Dune</strong> is the story of the boy Paul Atreides, who would become the mysterious man known as Muad'Dib. He would avenge the traitorous plot against his noble family--and would bring to fruition humankind's most ancient and unattainable dream.<br> A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what it undoubtedly the grandest epic in science fiction.]]></description>
+  <description><![CDATA[Harry Potter has never played a sport while flying on a broomstick. He's never worn a cloak of invisibility, befriended a giant, or helped hatch a dragon. All Harry knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years. But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to a wonderful place he never dreamed existed. There he finds not only friends, aerial sports, and magic around every corner, but a great destiny that's been waiting for him...if Harry can survive the encounter. Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Witchcraft and Wizardry.]]></description>
   <work>
-  <best_book_id type="integer">234225</best_book_id>
-  <books_count type="integer">70</books_count>
-  <default_chaptering_book_id type="integer" nil="true"/>
+  <best_book_id type="integer">3</best_book_id>
+  <books_count type="integer">110</books_count>
+  <default_chaptering_book_id type="integer">121121</default_chaptering_book_id>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer">1317471</desc_user_id>
-  <id type="integer">3634639</id>
+  <desc_user_id type="integer">171430</desc_user_id>
+  <id type="integer">4640799</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_year type="integer">1965</original_publication_year>
-  <original_title>Dune</original_title>
-  <rating_dist>3:50993|4:93396|5:146278|2:16740|1:11087|total:318494</rating_dist>
-  <ratings_count type="integer">336333</ratings_count>
-  <ratings_sum type="integer">1380190</ratings_sum>
-  <reviews_count type="integer">466148</reviews_count>
-  <text_reviews_count type="integer">7438</text_reviews_count>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_year type="integer">1997</original_publication_year>
+  <original_title>Harry Potter and the Philosopher's Stone</original_title>
+  <rating_dist>5:919574|4:438818|3:201022|1:24406|2:44287|total:1628107</rating_dist>
+  <ratings_count type="integer">2382560</ratings_count>
+  <ratings_sum type="integer">10418974</ratings_sum>
+  <reviews_count type="integer">2687044</reviews_count>
+  <text_reviews_count type="integer">39148</text_reviews_count>
 </work>
-  <average_rating>4.10</average_rating>
-  <num_pages><![CDATA[536]]></num_pages>
-  <format><![CDATA[Paperback]]></format>
-  <edition_information><![CDATA[Special 25th Anniversary Edition]]></edition_information>
-  <ratings_count><![CDATA[6394]]></ratings_count>
-  <text_reviews_count><![CDATA[606]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/53732.Dune]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/53732.Dune]]></link>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[]]></num_pages>
+  <format><![CDATA[]]></format>
+  <edition_information><![CDATA[]]></edition_information>
+  <ratings_count><![CDATA[8]]></ratings_count>
+  <text_reviews_count><![CDATA[0]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/167037.Harry_Potter_y_la_piedra]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/167037.Harry_Potter_y_la_piedra]]></link>
   <authors>
   <author>
-    <id>58</id>
-    <name>Frank Herbert</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p5/58.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p2/58.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
-    <average_rating>4.00</average_rating>
-    <ratings_count>584813</ratings_count>
-    <text_reviews_count>12117</text_reviews_count>
+    <id>1077326</id>
+    <name>J.K. Rowling</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395427571p5/1077326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395427571p2/1077326.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+    <average_rating>4.39</average_rating>
+    <ratings_count>9773410</ratings_count>
+    <text_reviews_count>207495</text_reviews_count>
+  </author>
+  <author>
+    <id>9823</id>
+    <name>Alicia Dellepiane</name>
+    <image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_200x266-312f5971f6b4a667fe0e83c852b56858.png]]></image_url>
+    <small_image_url><![CDATA[https://www.goodreads.com/assets/nophoto/user/u_50x66-d9f6a4a5badfda0f69e70cc94d962125.png]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/9823.Alicia_Dellepiane]]></link>
+    <average_rating>4.16</average_rating>
+    <ratings_count>1701</ratings_count>
+    <text_reviews_count>135</text_reviews_count>
   </author>
 </authors>
 
@@ -98,26 +108,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/53732.Dune">Dune Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441172717&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/167037.Harry_Potter_y_la_piedra">Harry Potter y la piedra Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=847888856X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/53732.Dune?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/167037.Harry_Potter_y_la_piedra?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="to-read" count="111050"/>
-      <shelf name="science-fiction" count="6313"/>
-      <shelf name="sci-fi" count="5344"/>
-      <shelf name="currently-reading" count="4560"/>
-      <shelf name="favorites" count="3239"/>
-      <shelf name="fiction" count="2462"/>
-      <shelf name="fantasy" count="1683"/>
-      <shelf name="scifi" count="1188"/>
-      <shelf name="classics" count="976"/>
-      <shelf name="sci-fi-fantasy" count="751"/>
+      <shelf name="young-adult" count="9679"/>
+      <shelf name="fiction" count="8050"/>
+      <shelf name="harry-potter" count="5239"/>
+      <shelf name="to-read" count="3483"/>
+      <shelf name="ya" count="3075"/>
+      <shelf name="series" count="2620"/>
+      <shelf name="childrens" count="2416"/>
+      <shelf name="magic" count="2360"/>
+      <shelf name="favourites" count="2035"/>
+      <shelf name="favorites" count="1624"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -199,56 +209,43 @@
   </book_links>
   <series_works>
     <series_work>
-<id>166801</id>
+<id>167817</id>
 <user_position>1</user_position>
 <series>
-<id>45935</id>
+<id>45175</id>
 <title>
 <![CDATA[
-    Dune Chronicles
+    Harry Potter
 ]]>
 </title>
 <description>
 <![CDATA[
-    Also known as Dune Saga, Kroniki Diuny and Dyyni.
+    This seven-book series about a young British wizard named <a href="http://www.goodreads.com/characters/1-harry-potter">Harry Potter</a> has been translated into many languages.
+    Also known as:
+    * Harijs Poters
+    * Hari Poter
+    * Χάρι Πότερ
+    * Hairī Pôṭara
+    * Хари Потър
+    * Гаррі Поттер
+    * Гарри Поттер
+    * ハリー・ポッターシリーズ
+    * 哈利波特
+    * הארי פוטר
+    * แฮร์รี่ พอตเตอร์
     
-    The first six volumes of this series have also been published as a <a href="http://www.goodreads.com/series/58317-il-ciclo-di-dune">two-volume omnibus series</a>.
+    See also the <a href="http://www.goodreads.com/series/82851-harry-potter-companion-books">companion books</a>.
     
-    See also:
-    * <a href="http://www.goodreads.com/series/49401-prelude-to-dune">Prelude to Dune</a>
-    * <a href="http://www.goodreads.com/series/45567-legends-of-dune">Legends of Dune</a>
+    The whole series is comprised of one epic story.
 ]]>
 </description>
 <note>
 <![CDATA[
+    Please leave all of the boxed sets and book parts in the listing and do not remove the list of translated series names from the description!
 ]]>
 </note>
-<series_works_count>21</series_works_count>
-<primary_work_count>6</primary_work_count>
-<numbered>true</numbered>
-</series>
-
-</series_work>
-<series_work>
-<id>514666</id>
-<user_position>10</user_position>
-<series>
-<id>106170</id>
-<title>
-<![CDATA[
-    Dune Universe
-]]>
-</title>
-<description>
-<![CDATA[
-]]>
-</description>
-<note>
-<![CDATA[
-]]>
-</note>
-<series_works_count>24</series_works_count>
-<primary_work_count>21</primary_work_count>
+<series_works_count>32</series_works_count>
+<primary_work_count>7</primary_work_count>
 <numbered>true</numbered>
 </series>
 
@@ -257,258 +254,290 @@
   </series_works>
   <similar_books>
           <book>
-<id>99218</id>
-<title><![CDATA[The Machine Crusade (Legends of Dune, #2)]]></title>
-<isbn>076534078X</isbn>
-<isbn13>9780765340788</isbn13>
+<id>13831</id>
+<title><![CDATA[Alanna: The First Adventure (Song of the Lioness, #1)]]></title>
+<isbn>0689878559</isbn>
+<isbn13>9780689878558</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.67</average_rating>
-<ratings_count>6922</ratings_count>
+<average_rating>4.26</average_rating>
+<ratings_count>54072</ratings_count>
 <authors>
   <author>
-    <id>56</id>
-    <name>Brian Herbert</name>
+    <id>8596</id>
+    <name>Tamora Pierce</name>
   </author>
 </authors>
 </book>
           <book>
-<id>76740</id>
-<title>The Demolished Man</title>
-<isbn>1857988221</isbn>
-<isbn13>9781857988222</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1360171879s/76740.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1360171879m/76740.jpg]]></image_url>
+<id>590324</id>
+<title><![CDATA[The Serpent Gift (The Shamer Chronicles, #3)]]></title>
+<isbn>0805077707</isbn>
+<isbn13>9780805077704</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364430127s/590324.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364430127m/590324.jpg]]></image_url>
+<average_rating>4.10</average_rating>
+<ratings_count>1422</ratings_count>
+<authors>
+  <author>
+    <id>3116926</id>
+    <name>Lene Kaaberbøl</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>291354</id>
+<title><![CDATA[The Ruby Knight (The Elenium, #2)]]></title>
+<isbn>0345373529</isbn>
+<isbn13>9780345373526</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.91</average_rating>
+<ratings_count>16538</ratings_count>
+<authors>
+  <author>
+    <id>8732</id>
+    <name>David Eddings</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>24337</id>
+<title>Ella Enchanted</title>
+<isbn>0590920685</isbn>
+<isbn13>9780590920681</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1395218045s/24337.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1395218045m/24337.jpg]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>204362</ratings_count>
+<authors>
+  <author>
+    <id>13677</id>
+    <name>Gail Carson Levine</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>24781</id>
+<title><![CDATA[The High King (The Chronicles of Prydain, #5)]]></title>
+<isbn>080508052X</isbn>
+<isbn13>9780805080520</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.25</average_rating>
+<ratings_count>26099</ratings_count>
+<authors>
+  <author>
+    <id>8924</id>
+    <name>Lloyd Alexander</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>994703</id>
+<title><![CDATA[Fifth Formers of St Clare's (St. Clare's, #8)]]></title>
+<isbn>0749719141</isbn>
+<isbn13>9780749719142</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1259342422s/994703.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1259342422m/994703.jpg]]></image_url>
 <average_rating>4.02</average_rating>
-<ratings_count>12682</ratings_count>
+<ratings_count>2050</ratings_count>
 <authors>
   <author>
-    <id>10992</id>
-    <name>Alfred Bester</name>
+    <id>10657</id>
+    <name>Enid Blyton</name>
   </author>
 </authors>
 </book>
           <book>
-<id>41818</id>
-<title>Robot Dreams (Robot, #0.4)</title>
-<isbn>0441011837</isbn>
-<isbn13>9780441011834</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206791s/41818.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206791m/41818.jpg]]></image_url>
-<average_rating>4.08</average_rating>
-<ratings_count>4478</ratings_count>
-<authors>
-  <author>
-    <id>16667</id>
-    <name>Isaac Asimov</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>276767</id>
-<title>The Word for World is Forest</title>
-<isbn></isbn>
-<isbn13></isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1283091038s/276767.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1283091038m/276767.jpg]]></image_url>
-<average_rating>3.86</average_rating>
-<ratings_count>3497</ratings_count>
-<authors>
-  <author>
-    <id>874602</id>
-    <name>Ursula K. Le Guin</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>77566</id>
-<title><![CDATA[Hyperion (Hyperion Cantos, #1)]]></title>
-<isbn>0553283685</isbn>
-<isbn13>9780553283686</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332885131s/77566.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332885131m/77566.jpg]]></image_url>
-<average_rating>4.15</average_rating>
-<ratings_count>62357</ratings_count>
-<authors>
-  <author>
-    <id>2687</id>
-    <name>Dan Simmons</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>89184</id>
-<title><![CDATA[Absolution Gap (Revelation Space, #3)]]></title>
-<isbn>0441012914</isbn>
-<isbn13>9780441012916</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309210984s/89184.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309210984m/89184.jpg]]></image_url>
-<average_rating>3.96</average_rating>
-<ratings_count>6151</ratings_count>
-<authors>
-  <author>
-    <id>51204</id>
-    <name>Alastair Reynolds</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>88071</id>
-<title><![CDATA[The Last Colony (Old Man's War, #3)]]></title>
-<isbn>0765316978</isbn>
-<isbn13>9780765316974</isbn13>
+<id>295809</id>
+<title><![CDATA[Magic by the Lake (Tales of Magic, #3)]]></title>
+<isbn>0152020772</isbn>
+<isbn13>9780152020774</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.98</average_rating>
-<ratings_count>13134</ratings_count>
+<average_rating>4.06</average_rating>
+<ratings_count>2451</ratings_count>
 <authors>
   <author>
-    <id>4763</id>
-    <name>John Scalzi</name>
+    <id>131683</id>
+    <name>Edward Eager</name>
   </author>
 </authors>
 </book>
           <book>
-<id>189147</id>
-<title><![CDATA[To Your Scattered Bodies Go (Riverworld, #1)]]></title>
-<isbn>0345419677</isbn>
-<isbn13>9780345419675</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327657439s/189147.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327657439m/189147.jpg]]></image_url>
-<average_rating>3.93</average_rating>
-<ratings_count>14851</ratings_count>
+<id>119494</id>
+<title><![CDATA[The Lake of Tears (Deltora Quest, #2)]]></title>
+<isbn>0439253241</isbn>
+<isbn13>9780439253246</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.91</average_rating>
+<ratings_count>4085</ratings_count>
 <authors>
   <author>
-    <id>10089</id>
-    <name>Philip José Farmer</name>
+    <id>3995</id>
+    <name>Emily Rodda</name>
   </author>
 </authors>
 </book>
           <book>
-<id>229021</id>
-<title>Rite of Passage</title>
-<isbn>0978907825</isbn>
-<isbn13>9780978907822</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334659898s/229021.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334659898m/229021.jpg]]></image_url>
-<average_rating>3.93</average_rating>
-<ratings_count>1360</ratings_count>
-<authors>
-  <author>
-    <id>26068</id>
-    <name>Alexei Panshin</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>61179</id>
-<title>Ringworld (Ringworld, #1)</title>
-<isbn>0575077026</isbn>
-<isbn13>9780575077027</isbn13>
+<id>7980</id>
+<title>Pearls of Lutra (Redwall, #9)</title>
+<isbn>0142401447</isbn>
+<isbn13>9780142401446</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
 <average_rating>3.95</average_rating>
-<ratings_count>44885</ratings_count>
+<ratings_count>9653</ratings_count>
 <authors>
   <author>
-    <id>12534</id>
-    <name>Larry Niven</name>
+    <id>5329</id>
+    <name>Brian Jacques</name>
   </author>
 </authors>
 </book>
           <book>
-<id>77507</id>
-<title>Red Mars (Mars Trilogy, #1)</title>
-<isbn>0553560735</isbn>
-<isbn13>9780553560732</isbn13>
+<id>127459</id>
+<title><![CDATA[The Sweet Far Thing (Gemma Doyle, #3)]]></title>
+<isbn>0385730306</isbn>
+<isbn13>9780385730303</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1358704741s/127459.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1358704741m/127459.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>37541</ratings_count>
+<authors>
+  <author>
+    <id>2526</id>
+    <name>Libba Bray</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>215541</id>
+<title><![CDATA[The Reality Bug (Pendragon, #4)]]></title>
+<isbn>0743437349</isbn>
+<isbn13>9780743437349</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.80</average_rating>
-<ratings_count>25000</ratings_count>
+<average_rating>4.15</average_rating>
+<ratings_count>11298</ratings_count>
 <authors>
   <author>
-    <id>1858</id>
-    <name>Kim Stanley Robinson</name>
+    <id>74046</id>
+    <name>D.J. MacHale</name>
   </author>
 </authors>
 </book>
           <book>
-<id>112537</id>
-<title><![CDATA[Rendezvous with Rama (Rama, #1)]]></title>
-<isbn>1857231589</isbn>
-<isbn13>9781857231588</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1357153807s/112537.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1357153807m/112537.jpg]]></image_url>
-<average_rating>3.99</average_rating>
-<ratings_count>52355</ratings_count>
+<id>116564</id>
+<title><![CDATA[A Wizard Abroad (Young Wizards, #4)]]></title>
+<isbn>0152055037</isbn>
+<isbn13>9780152055035</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1303797089s/116564.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1303797089m/116564.jpg]]></image_url>
+<average_rating>3.98</average_rating>
+<ratings_count>6892</ratings_count>
 <authors>
   <author>
-    <id>7779</id>
-    <name>Arthur C. Clarke</name>
+    <id>11761</id>
+    <name>Diane Duane</name>
   </author>
 </authors>
 </book>
           <book>
-<id>68483</id>
-<title><![CDATA[The Vor Game (Vorkosigan Saga, #6)]]></title>
-<isbn>0671720147</isbn>
-<isbn13>9780671720148</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322571824s/68483.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322571824m/68483.jpg]]></image_url>
-<average_rating>4.25</average_rating>
-<ratings_count>8559</ratings_count>
+<id>13888</id>
+<title><![CDATA[Knife of Dreams (Wheel of Time, #11)]]></title>
+<isbn>0812577566</isbn>
+<isbn13>9780812577563</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.08</average_rating>
+<ratings_count>39126</ratings_count>
 <authors>
   <author>
-    <id>16094</id>
-    <name>Lois McMaster Bujold</name>
+    <id>6252</id>
+    <name>Robert Jordan</name>
   </author>
 </authors>
 </book>
           <book>
-<id>7082</id>
-<title><![CDATA[Do Androids Dream of Electric Sheep?]]></title>
-<isbn>0345404475</isbn>
-<isbn13>9780345404473</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327865673s/7082.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327865673m/7082.jpg]]></image_url>
-<average_rating>4.05</average_rating>
-<ratings_count>122292</ratings_count>
+<id>59263</id>
+<title><![CDATA[The Golem's Eye (Bartimaeus, #2)]]></title>
+<isbn>0786836547</isbn>
+<isbn13>9780786836543</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.08</average_rating>
+<ratings_count>48273</ratings_count>
 <authors>
   <author>
-    <id>4764</id>
-    <name>Philip K. Dick</name>
+    <id>33467</id>
+    <name>Jonathan Stroud</name>
   </author>
 </authors>
 </book>
           <book>
-<id>22871</id>
-<title><![CDATA[The Gap Into Madness: Chaos and Order (Gap, #4)]]></title>
-<isbn>0553071793</isbn>
-<isbn13>9780553071795</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383397098s/22871.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383397098m/22871.jpg]]></image_url>
-<average_rating>4.09</average_rating>
-<ratings_count>2758</ratings_count>
+<id>519933</id>
+<title><![CDATA[The Lives of Christopher Chant (Chrestomanci, #4)]]></title>
+<isbn>0688163653</isbn>
+<isbn13>9780688163655</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356549015s/519933.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356549015m/519933.jpg]]></image_url>
+<average_rating>4.21</average_rating>
+<ratings_count>12205</ratings_count>
 <authors>
   <author>
-    <id>12980</id>
-    <name>Stephen R. Donaldson</name>
+    <id>4260</id>
+    <name>Diana Wynne Jones</name>
   </author>
 </authors>
 </book>
           <book>
-<id>45244</id>
-<title><![CDATA[Judas Unchained (Commonwealth Saga, #2)]]></title>
-<isbn>0345461665</isbn>
-<isbn13>9780345461667</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316501189s/45244.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316501189m/45244.jpg]]></image_url>
-<average_rating>4.27</average_rating>
-<ratings_count>11328</ratings_count>
+<id>2223324</id>
+<title><![CDATA[Harry Potter and the Chamber of Secrets: Sheet Music for Flute with C.D]]></title>
+<isbn>075791084X</isbn>
+<isbn13>9780757910845</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.54</average_rating>
+<ratings_count>11043</ratings_count>
 <authors>
   <author>
-    <id>25375</id>
-    <name>Peter F. Hamilton</name>
+    <id>616</id>
+    <name>John Williams</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>28186</id>
+<title><![CDATA[The Sea of Monsters (Percy Jackson and the Olympians, #2)]]></title>
+<isbn>0786856866</isbn>
+<isbn13>9780786856862</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361038367s/28186.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361038367m/28186.jpg]]></image_url>
+<average_rating>4.19</average_rating>
+<ratings_count>233179</ratings_count>
+<authors>
+  <author>
+    <id>15872</id>
+    <name>Rick Riordan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>28875</id>
+<title><![CDATA[Three Tales of My Father's Dragon]]></title>
+<isbn>0679889116</isbn>
+<isbn13>9780679889113</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1350481640s/28875.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1350481640m/28875.jpg]]></image_url>
+<average_rating>4.24</average_rating>
+<ratings_count>1117</ratings_count>
+<authors>
+  <author>
+    <id>16215</id>
+    <name>Ruth Stiles Gannett</name>
   </author>
 </authors>
 </book>

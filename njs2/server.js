@@ -1,4 +1,4 @@
-var express = require('express')//express dependency 
+var express = require('express'), search=require('./search')//express dependency,search module 
 
 var app = express.createServer(); //initialize server/create app
 
@@ -12,6 +12,6 @@ res.render('index');
 });
 
 //Listen
-app.listen(4000);
+app.listen(3000);
 
 

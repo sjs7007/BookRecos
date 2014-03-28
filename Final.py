@@ -10,21 +10,21 @@ url="https://www.goodreads.com/book/isbn?isbn="+ISBN+"&key="+APIKey
 
 #PageSource=urllib2.urlopen("https://www.goodreads.com/book/isbn?isbn=0441172717&key=X").read()
 PageSource=urllib2.urlopen(url).read()
-text_file = open("temp.xml", "w")
+text_file = open("Output.xml", "w")
 text_file.write("%s" %PageSource)
 text_file.close()
 
 #now read from xml file and display output
 
 output=""
-xmldoc = minidom.parse('temp.xml')
+xmldoc = minidom.parse('Output.xml')
 itemlist = xmldoc.getElementsByTagName('original_title') 
 print "Title :-"
 print itemlist[0].childNodes[0].nodeValue
 print "-------------"
 output=output+itemlist[0].childNodes[0].nodeValue+"\n"
 
-xmldoc = minidom.parse('temp.xml')
+xmldoc = minidom.parse('Output.xml')
 itemlist = xmldoc.getElementsByTagName('description') 
 print "Description :-"
 print itemlist[0].childNodes[0].nodeValue
