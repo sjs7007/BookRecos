@@ -29,6 +29,15 @@
                     document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
                     document.write("</td></tr>");
 
+		    
+		    document.write("<tr><td>");
+		    document.write("Cover");	
+		    document.write("</td><td>");
+		    var url= '<img src='+x[i].getElementsByTagName("image_url")[0].childNodes[0].nodeValue+">";
+		    document.write(url);
+                    document.write("</td></tr>");
+
+
 		    document.write("<tr><td>");
                     document.write("Author");
                     document.write("</td><td>");
@@ -46,6 +55,8 @@
                     document.write("</td><td>");
 		    document.write(x[i].getElementsByTagName("average_rating")[0].childNodes[0].nodeValue);
                     document.write("</td></tr>");
+
+		  
                 }
                 document.write("</table>");
 

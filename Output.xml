@@ -6,57 +6,58 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>2745986</id>
-  <title>Looking for Alaska</title>
-  <isbn><![CDATA[014241221X]]></isbn>
-  <isbn13><![CDATA[9780142412213]]></isbn13>
+  <id>3850639</id>
+  <title>A Thousand Splendid Suns</title>
+  <isbn><![CDATA[159448385X]]></isbn>
+  <isbn13><![CDATA[9781594483851]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1318982518m/2745986.jpg</image_url>
-  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1318982518s/2745986.jpg</small_image_url>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363129062m/3850639.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363129062s/3850639.jpg</small_image_url>
   <publication_year>2008</publication_year>
-  <publication_month>8</publication_month>
-  <publication_day>14</publication_day>
-  <publisher>Speak</publisher>
+  <publication_month>11</publication_month>
+  <publication_day>25</publication_day>
+  <publisher>Riverhead Trade</publisher>
   <language_code>en-US</language_code>
   <is_ebook>false</is_ebook>
-  <description><![CDATA[<strong>BEFORE.</strong> Miles "Pudge" Halter is done with his safe life at home. His whole existence has been one big nonevent, and his obsession with famous last words has only made him crave the "Great Perhaps" (François Rabelais, poet) even more. he heads off to the sometimes crazy, possibly unstable, and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed-up, and utterly fascinating Alaska Young, who is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart.<br><br><strong>AFTER.</strong> Nothing is ever the same.]]></description>
+  <description><![CDATA[After 103 weeks on the <em>New York Times</em> bestseller list and with four million copies of <em>The Kite Runner</em> shipped, Khaled Hosseini returns with a beautiful, riveting, and haunting novel that confirms his place as one of the most important literary writers today.<br><br> Propelled by the same superb instinct for storytelling that made <em>The Kite Runner</em> a beloved classic, <em>A Thousand Splendid Suns</em> is at once an incredible chronicle of thirty years of Afghan history and a deeply moving story of family, friendship, faith, and the salvation to be found in love.<br><br> Born a generation apart and with very different ideas about love and family, Mariam and Laila are two women brought jarringly together by war, by loss and by fate. As they endure the ever escalating dangers around them-in their home as well as in the streets of Kabul-they come to form a bond that makes them both sisters and mother-daughter to each other, and that will ultimately alter the course not just of their own lives but of the next generation. With heart-wrenching power and suspense, Hosseini shows how a woman's love for her family can move her to shocking and heroic acts of self-sacrifice, and that in the end it is love, or even the memory of love, that is often the key to survival.<br><br>A stunning accomplishment, <em>A Thousand Splendid Suns</em> is a haunting, heartbreaking, compelling story of an unforgiving time, an unlikely friendship, and an indestructible love.<br><br><strong>
+  <br></strong>]]></description>
   <work>
-  <best_book_id type="integer">99561</best_book_id>
-  <books_count type="integer">79</books_count>
-  <default_chaptering_book_id type="integer">99561</default_chaptering_book_id>
+  <best_book_id type="integer">128029</best_book_id>
+  <books_count type="integer">38</books_count>
+  <default_chaptering_book_id type="integer" nil="true"/>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer">12334433</desc_user_id>
-  <id type="integer">919292</id>
+  <desc_user_id type="integer">5581651</desc_user_id>
+  <id type="integer">3271379</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_year type="integer">2005</original_publication_year>
-  <original_title>Looking for Alaska</original_title>
-  <rating_dist>5:72771|3:19868|4:44660|2:4915|1:1590|total:143804</rating_dist>
-  <ratings_count type="integer">283811</ratings_count>
-  <ratings_sum type="integer">1200703</ratings_sum>
-  <reviews_count type="integer">502584</reviews_count>
-  <text_reviews_count type="integer">21666</text_reviews_count>
+  <original_publication_day type="integer">22</original_publication_day>
+  <original_publication_month type="integer">5</original_publication_month>
+  <original_publication_year type="integer">2006</original_publication_year>
+  <original_title>A Thousand Splendid Suns</original_title>
+  <rating_dist>5:206100|4:149354|2:10143|3:54299|1:3253|total:423149</rating_dist>
+  <ratings_count type="integer">489578</ratings_count>
+  <ratings_sum type="integer">2105046</ratings_sum>
+  <reviews_count type="integer">704012</reviews_count>
+  <text_reviews_count type="integer">31894</text_reviews_count>
 </work>
-  <average_rating>4.23</average_rating>
-  <num_pages><![CDATA[221]]></num_pages>
+  <average_rating>4.30</average_rating>
+  <num_pages><![CDATA[415]]></num_pages>
   <format><![CDATA[Paperback]]></format>
   <edition_information><![CDATA[]]></edition_information>
-  <ratings_count><![CDATA[1269]]></ratings_count>
-  <text_reviews_count><![CDATA[239]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/2745986-looking-for-alaska]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/2745986-looking-for-alaska]]></link>
+  <ratings_count><![CDATA[4263]]></ratings_count>
+  <text_reviews_count><![CDATA[628]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns]]></link>
   <authors>
   <author>
-    <id>1406384</id>
-    <name>John Green</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1353452301p5/1406384.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1353452301p2/1406384.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
-    <average_rating>4.27</average_rating>
-    <ratings_count>1285650</ratings_count>
-    <text_reviews_count>127588</text_reviews_count>
+    <id>569</id>
+    <name>Khaled Hosseini</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p5/569.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p2/569.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
+    <average_rating>4.22</average_rating>
+    <ratings_count>1698667</ratings_count>
+    <text_reviews_count>90666</text_reviews_count>
   </author>
 </authors>
 
@@ -98,26 +99,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/2745986-looking-for-alaska">Looking for Alaska Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=014241221X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns">A Thousand Splendid Suns Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=159448385X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/2745986-looking-for-alaska?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="to-read" count="17976"/>
-      <shelf name="currently-reading" count="11373"/>
-      <shelf name="ya" count="2337"/>
-      <shelf name="fiction" count="1539"/>
-      <shelf name="romance" count="816"/>
-      <shelf name="john-green" count="806"/>
-      <shelf name="Ｆａｖｏｒｉｔｅｓ" count="802"/>
-      <shelf name="realistic-fiction" count="673"/>
-      <shelf name="teen" count="435"/>
-      <shelf name="to-buy" count="358"/>
+      <shelf name="to-read" count="8683"/>
+      <shelf name="currently-reading" count="3038"/>
+      <shelf name="book-club" count="921"/>
+      <shelf name="favourites" count="463"/>
+      <shelf name="fiction" count="410"/>
+      <shelf name="contemporary" count="380"/>
+      <shelf name="afghanistan" count="372"/>
+      <shelf name="middle-east" count="352"/>
+      <shelf name="favorites" count="328"/>
+      <shelf name="novels" count="309"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -200,292 +201,298 @@
   <series_works>
     
   </series_works>
+      <public_document>
+        <id>34323</id>
+        <document_url>
+          http://photo.goodreads.com/documents/1361487659books/128029.epub
+        </document_url>
+      </public_document>
   <similar_books>
           <book>
-<id>19057</id>
-<title>I Am the Messenger</title>
-<isbn>0375836675</isbn>
-<isbn13>9780375836671</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1167188997s/19057.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1167188997m/19057.jpg]]></image_url>
-<average_rating>4.12</average_rating>
-<ratings_count>45290</ratings_count>
+<id>211264</id>
+<title>Fludd</title>
+<isbn>0007172893</isbn>
+<isbn13>9780007172894</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.53</average_rating>
+<ratings_count>816</ratings_count>
 <authors>
   <author>
-    <id>11466</id>
-    <name>Markus Zusak</name>
+    <id>58851</id>
+    <name>Hilary Mantel</name>
   </author>
 </authors>
 </book>
           <book>
-<id>275844</id>
-<title>Deadline</title>
-<isbn>0060850892</isbn>
-<isbn13>9780060850890</isbn13>
+<id>6116753</id>
+<title>Boom!</title>
+<isbn>0385616295</isbn>
+<isbn13>9780385616294</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327910076s/6116753.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327910076m/6116753.jpg]]></image_url>
+<average_rating>3.37</average_rating>
+<ratings_count>1407</ratings_count>
+<authors>
+  <author>
+    <id>1050</id>
+    <name>Mark Haddon</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>10158656</id>
+<title>22 Britannia Road</title>
+<isbn>1611760038</isbn>
+<isbn13>9781611760033</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354984677s/10158656.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354984677m/10158656.jpg]]></image_url>
+<average_rating>3.60</average_rating>
+<ratings_count>4738</ratings_count>
+<authors>
+  <author>
+    <id>4567126</id>
+    <name>Amanda Hodgkinson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>85301</id>
+<title>Unaccustomed Earth</title>
+<isbn>0676979343</isbn>
+<isbn13>9780676979343</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140s/85301.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140m/85301.jpg]]></image_url>
+<average_rating>4.10</average_rating>
+<ratings_count>42781</ratings_count>
+<authors>
+  <author>
+    <id>3670</id>
+    <name>Jhumpa Lahiri</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>129783</id>
+<title>The Other Side of the Bridge</title>
+<isbn>0385340370</isbn>
+<isbn13>9780385340373</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
 <average_rating>3.98</average_rating>
-<ratings_count>7331</ratings_count>
+<ratings_count>2451</ratings_count>
 <authors>
   <author>
-    <id>28010</id>
-    <name>Chris Crutcher</name>
+    <id>5619</id>
+    <name>Mary Lawson</name>
   </author>
 </authors>
 </book>
           <book>
-<id>5819551</id>
-<title><![CDATA[The Treasure Map of Boys: Noel, Jackson, Finn, Hutch, Gideon—and me, Ruby Oliver  (Ruby Oliver, #3)]]></title>
-<isbn>0385734263</isbn>
-<isbn13>9780385734264</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.00</average_rating>
-<ratings_count>3896</ratings_count>
-<authors>
-  <author>
-    <id>173491</id>
-    <name>E. Lockhart</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>6665671</id>
-<title>Please Ignore Vera Dietz</title>
-<isbn>0375865861</isbn>
-<isbn13>9780375865862</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1394240671s/6665671.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1394240671m/6665671.jpg]]></image_url>
-<average_rating>3.95</average_rating>
-<ratings_count>10244</ratings_count>
-<authors>
-  <author>
-    <id>1651879</id>
-    <name>A.S. King</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>10710505</id>
-<title>The Probability of Miracles</title>
-<isbn>1595143688</isbn>
-<isbn13>9781595143686</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1301695123s/10710505.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1301695123m/10710505.jpg]]></image_url>
+<id>1103</id>
+<title><![CDATA[Snow Flower and the Secret Fan]]></title>
+<isbn>0812968069</isbn>
+<isbn13>9780812968064</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508s/1103.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508m/1103.jpg]]></image_url>
 <average_rating>4.02</average_rating>
-<ratings_count>3636</ratings_count>
+<ratings_count>190780</ratings_count>
 <authors>
   <author>
-    <id>4721275</id>
-    <name>Wendy Wunder</name>
+    <id>713</id>
+    <name>Lisa See</name>
   </author>
 </authors>
 </book>
           <book>
-<id>6316171</id>
-<title>Hate List</title>
-<isbn>0316041440</isbn>
-<isbn13>9780316041447</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.06</average_rating>
-<ratings_count>19578</ratings_count>
+<id>3591262</id>
+<title>Cutting for Stone</title>
+<isbn>0375414495</isbn>
+<isbn13>9780375414497</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327931601s/3591262.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327931601m/3591262.jpg]]></image_url>
+<average_rating>4.26</average_rating>
+<ratings_count>154130</ratings_count>
 <authors>
   <author>
-    <id>432859</id>
-    <name>Jennifer Brown</name>
+    <id>93353</id>
+    <name>Abraham Verghese</name>
   </author>
 </authors>
 </book>
           <book>
-<id>9429895</id>
-<title><![CDATA[My Sister Lives on the Mantelpiece]]></title>
-<isbn>1409132889</isbn>
-<isbn13>9781409132882</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327538990s/9429895.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327538990m/9429895.jpg]]></image_url>
-<average_rating>4.03</average_rating>
-<ratings_count>2176</ratings_count>
+<id>16527</id>
+<title>Daughter of Fortune</title>
+<isbn>0061120251</isbn>
+<isbn13>9780061120251</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1299666780s/16527.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1299666780m/16527.jpg]]></image_url>
+<average_rating>3.85</average_rating>
+<ratings_count>63526</ratings_count>
 <authors>
   <author>
-    <id>4388883</id>
-    <name>Annabel Pitcher</name>
+    <id>2238</id>
+    <name>Isabel Allende</name>
   </author>
 </authors>
 </book>
           <book>
-<id>4906766</id>
-<title><![CDATA[Tales of the Madman Underground]]></title>
-<isbn>067006081X</isbn>
-<isbn13>9780670060818</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<id>6452760</id>
+<title><![CDATA[Stones Into Schools: Promoting Peace With Books, Not Bombs, in Afghanistan and Pakistan]]></title>
+<isbn>0670021156</isbn>
+<isbn13>9780670021154</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260845553s/6452760.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260845553m/6452760.jpg]]></image_url>
+<average_rating>3.89</average_rating>
+<ratings_count>9896</ratings_count>
+<authors>
+  <author>
+    <id>27837</id>
+    <name>Greg Mortenson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>2138727</id>
+<title>Mudbound</title>
+<isbn>156512569X</isbn>
+<isbn13>9781565125698</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1296591096s/2138727.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1296591096m/2138727.jpg]]></image_url>
 <average_rating>3.98</average_rating>
-<ratings_count>1879</ratings_count>
+<ratings_count>28445</ratings_count>
 <authors>
   <author>
-    <id>45596</id>
-    <name>John Barnes</name>
+    <id>972440</id>
+    <name>Hillary Jordan</name>
   </author>
 </authors>
 </book>
           <book>
-<id>4325</id>
-<title>Dreamland </title>
-<isbn>0142401757</isbn>
-<isbn13>9780142401750</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1385861832s/4325.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1385861832m/4325.jpg]]></image_url>
-<average_rating>3.89</average_rating>
-<ratings_count>40214</ratings_count>
+<id>5211</id>
+<title>A Fine Balance</title>
+<isbn>140003065X</isbn>
+<isbn13>9781400030651</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.32</average_rating>
+<ratings_count>65507</ratings_count>
 <authors>
   <author>
-    <id>2987</id>
-    <name>Sarah Dessen</name>
+    <id>3539</id>
+    <name>Rohinton Mistry</name>
   </author>
 </authors>
 </book>
           <book>
-<id>7417780</id>
-<title>The Piper&apos;s Son</title>
-<isbn>0670074233</isbn>
-<isbn13>9780670074235</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1394240860s/7417780.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1394240860m/7417780.jpg]]></image_url>
-<average_rating>4.09</average_rating>
-<ratings_count>4932</ratings_count>
+<id>3367956</id>
+<title><![CDATA[Hotel on the Corner of Bitter and Sweet]]></title>
+<isbn>0345505336</isbn>
+<isbn13>9780345505330</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.94</average_rating>
+<ratings_count>121929</ratings_count>
 <authors>
   <author>
-    <id>47104</id>
-    <name>Melina Marchetta</name>
+    <id>1421619</id>
+    <name>Jamie Ford</name>
   </author>
 </authors>
 </book>
           <book>
-<id>13522285</id>
-<title>The Beginning of Everything</title>
-<isbn>0062217135</isbn>
-<isbn13>9780062217134</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1366395005s/13522285.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1366395005m/13522285.jpg]]></image_url>
-<average_rating>3.87</average_rating>
-<ratings_count>5959</ratings_count>
-<authors>
-  <author>
-    <id>50568</id>
-    <name>Robyn Schneider</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>11861815</id>
-<title>Winger (Winger, #1)</title>
-<isbn>1442444924</isbn>
-<isbn13>9781442444928</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1367927656s/11861815.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1367927656m/11861815.jpg]]></image_url>
-<average_rating>4.17</average_rating>
-<ratings_count>3142</ratings_count>
-<authors>
-  <author>
-    <id>1383409</id>
-    <name>Andrew  Smith</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>7097618</id>
-<title><![CDATA[The Ghosts of Ashbury High (Ashbury/Brookfield, #4)]]></title>
-<isbn>0545069726</isbn>
-<isbn13>9780545069724</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1275882125s/7097618.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1275882125m/7097618.jpg]]></image_url>
-<average_rating>3.89</average_rating>
-<ratings_count>1189</ratings_count>
-<authors>
-  <author>
-    <id>47290</id>
-    <name>Jaclyn Moriarty</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>248704</id>
-<title>It&apos;s Kind of a Funny Story</title>
-<isbn>078685197X</isbn>
-<isbn13>9780786851973</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1394240235s/248704.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1394240235m/248704.jpg]]></image_url>
-<average_rating>4.14</average_rating>
-<ratings_count>62351</ratings_count>
-<authors>
-  <author>
-    <id>11672</id>
-    <name>Ned Vizzini</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>18335634</id>
-<title><![CDATA[Clockwork Princess (The Infernal Devices, #3)]]></title>
-<isbn>1406321346</isbn>
-<isbn13>9781406321340</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1376663659s/18335634.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1376663659m/18335634.jpg]]></image_url>
-<average_rating>4.61</average_rating>
-<ratings_count>22640</ratings_count>
-<authors>
-  <author>
-    <id>150038</id>
-    <name>Cassandra Clare</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>316445</id>
-<title>Luna</title>
-<isbn>0316011274</isbn>
-<isbn13>9780316011273</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1339269673s/316445.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1339269673m/316445.jpg]]></image_url>
-<average_rating>3.92</average_rating>
-<ratings_count>10569</ratings_count>
-<authors>
-  <author>
-    <id>52989</id>
-    <name>Julie Anne Peters</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>23232</id>
-<title>The Realm of Possibility</title>
-<isbn>0375836578</isbn>
-<isbn13>9780375836572</isbn13>
+<id>94672</id>
+<title>Beneath a Marble Sky</title>
+<isbn>0451218469</isbn>
+<isbn13>9780451218469</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
 <average_rating>3.99</average_rating>
-<ratings_count>7304</ratings_count>
+<ratings_count>8288</ratings_count>
 <authors>
   <author>
-    <id>11664</id>
-    <name>David Levithan</name>
+    <id>54450</id>
+    <name>John Shors</name>
   </author>
 </authors>
 </book>
           <book>
-<id>25373</id>
-<title><![CDATA[Nick & Norah's Infinite Playlist]]></title>
-<isbn>0375835318</isbn>
-<isbn13>9780375835315</isbn13>
+<id>337615</id>
+<title><![CDATA[Nine Parts of Desire: The Hidden World of Islamic Women]]></title>
+<isbn>0385475772</isbn>
+<isbn13>9780385475778</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.77</average_rating>
-<ratings_count>35818</ratings_count>
+<average_rating>4.03</average_rating>
+<ratings_count>6987</ratings_count>
 <authors>
   <author>
-    <id>13139</id>
-    <name>Rachel Cohn</name>
+    <id>211268</id>
+    <name>Geraldine Brooks</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>587666</id>
+<title>Like the Flowing River </title>
+<isbn>0007235801</isbn>
+<isbn13>9780007235803</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356806433s/587666.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356806433m/587666.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>7755</ratings_count>
+<authors>
+  <author>
+    <id>566</id>
+    <name>Paulo Coelho</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>164814</id>
+<title>The Rice Mother</title>
+<isbn>0142004545</isbn>
+<isbn13>9780142004548</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206443s/164814.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206443m/164814.jpg]]></image_url>
+<average_rating>4.06</average_rating>
+<ratings_count>2014</ratings_count>
+<authors>
+  <author>
+    <id>95806</id>
+    <name>Rani Manicka</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>12555</id>
+<title>The Bonesetter&apos;s Daughter</title>
+<isbn>0345457374</isbn>
+<isbn13>9780345457370</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>69406</ratings_count>
+<authors>
+  <author>
+    <id>5246</id>
+    <name>Amy Tan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>218357</id>
+<title>The Space Between Us</title>
+<isbn>006079156X</isbn>
+<isbn13>9780060791568</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>19206</ratings_count>
+<authors>
+  <author>
+    <id>127875</id>
+    <name>Thrity Umrigar</name>
   </author>
 </authors>
 </book>
