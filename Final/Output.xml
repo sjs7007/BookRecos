@@ -6,58 +6,57 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>3850639</id>
-  <title>A Thousand Splendid Suns</title>
-  <isbn><![CDATA[159448385X]]></isbn>
-  <isbn13><![CDATA[9781594483851]]></isbn13>
+  <id>899777</id>
+  <title><![CDATA[The Fellowship of the Ring (The Lord of the Rings #1)]]></title>
+  <isbn><![CDATA[0261103571]]></isbn>
+  <isbn13><![CDATA[9780261103573]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363129062m/3850639.jpg</image_url>
-  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1363129062s/3850639.jpg</small_image_url>
-  <publication_year>2008</publication_year>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1390044656m/899777.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1390044656s/899777.jpg</small_image_url>
+  <publication_year>1997</publication_year>
   <publication_month>11</publication_month>
-  <publication_day>25</publication_day>
-  <publisher>Riverhead Trade</publisher>
-  <language_code>en-US</language_code>
+  <publication_day>3</publication_day>
+  <publisher>HarperCollins Publishers Ltd</publisher>
+  <language_code>eng</language_code>
   <is_ebook>false</is_ebook>
-  <description><![CDATA[After 103 weeks on the <em>New York Times</em> bestseller list and with four million copies of <em>The Kite Runner</em> shipped, Khaled Hosseini returns with a beautiful, riveting, and haunting novel that confirms his place as one of the most important literary writers today.<br><br> Propelled by the same superb instinct for storytelling that made <em>The Kite Runner</em> a beloved classic, <em>A Thousand Splendid Suns</em> is at once an incredible chronicle of thirty years of Afghan history and a deeply moving story of family, friendship, faith, and the salvation to be found in love.<br><br> Born a generation apart and with very different ideas about love and family, Mariam and Laila are two women brought jarringly together by war, by loss and by fate. As they endure the ever escalating dangers around them-in their home as well as in the streets of Kabul-they come to form a bond that makes them both sisters and mother-daughter to each other, and that will ultimately alter the course not just of their own lives but of the next generation. With heart-wrenching power and suspense, Hosseini shows how a woman's love for her family can move her to shocking and heroic acts of self-sacrifice, and that in the end it is love, or even the memory of love, that is often the key to survival.<br><br>A stunning accomplishment, <em>A Thousand Splendid Suns</em> is a haunting, heartbreaking, compelling story of an unforgiving time, an unlikely friendship, and an indestructible love.<br><br><strong>
-  <br></strong>]]></description>
+  <description><![CDATA[The first volume in J.R.R. Tolkien's epic adventure <em>The Lord of the Rings</em>. In a sleepy village in the Shire a young hobbit is entrusted with a immense task. He must make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ruling Ring of Power - the only thing that prevents the Dark Lord's evil dominion.]]></description>
   <work>
-  <best_book_id type="integer">128029</best_book_id>
-  <books_count type="integer">38</books_count>
-  <default_chaptering_book_id type="integer" nil="true"/>
+  <best_book_id type="integer">34</best_book_id>
+  <books_count type="integer">416</books_count>
+  <default_chaptering_book_id type="integer">5153604</default_chaptering_book_id>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer">5581651</desc_user_id>
-  <id type="integer">3271379</id>
+  <desc_user_id type="integer">1986715</desc_user_id>
+  <id type="integer">3204327</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
-  <original_publication_day type="integer">22</original_publication_day>
-  <original_publication_month type="integer">5</original_publication_month>
-  <original_publication_year type="integer">2006</original_publication_year>
-  <original_title>A Thousand Splendid Suns</original_title>
-  <rating_dist>5:206100|4:149354|2:10143|3:54299|1:3253|total:423149</rating_dist>
-  <ratings_count type="integer">489578</ratings_count>
-  <ratings_sum type="integer">2105046</ratings_sum>
-  <reviews_count type="integer">704012</reviews_count>
-  <text_reviews_count type="integer">31894</text_reviews_count>
+  <original_publication_day type="integer">29</original_publication_day>
+  <original_publication_month type="integer">7</original_publication_month>
+  <original_publication_year type="integer">1954</original_publication_year>
+  <original_title>The Fellowship of the Ring</original_title>
+  <rating_dist>5:372852|4:188879|1:18329|3:87767|2:26653|total:694480</rating_dist>
+  <ratings_count type="integer">1037509</ratings_count>
+  <ratings_sum type="integer">4449387</ratings_sum>
+  <reviews_count type="integer">1266665</reviews_count>
+  <text_reviews_count type="integer">9079</text_reviews_count>
 </work>
-  <average_rating>4.30</average_rating>
-  <num_pages><![CDATA[415]]></num_pages>
+  <average_rating>4.29</average_rating>
+  <num_pages><![CDATA[416]]></num_pages>
   <format><![CDATA[Paperback]]></format>
   <edition_information><![CDATA[]]></edition_information>
-  <ratings_count><![CDATA[4263]]></ratings_count>
-  <text_reviews_count><![CDATA[628]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns]]></link>
+  <ratings_count><![CDATA[114]]></ratings_count>
+  <text_reviews_count><![CDATA[7]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring]]></link>
   <authors>
   <author>
-    <id>569</id>
-    <name>Khaled Hosseini</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p5/569.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p2/569.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
-    <average_rating>4.22</average_rating>
-    <ratings_count>1698667</ratings_count>
-    <text_reviews_count>90666</text_reviews_count>
+    <id>656983</id>
+    <name>J.R.R. Tolkien</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383526938p5/656983.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383526938p2/656983.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+    <average_rating>4.27</average_rating>
+    <ratings_count>3737668</ratings_count>
+    <text_reviews_count>59609</text_reviews_count>
   </author>
 </authors>
 
@@ -99,26 +98,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns">A Thousand Splendid Suns Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=159448385X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring">The Fellowship of the Ring Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0261103571&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/3850639-a-thousand-splendid-suns?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="to-read" count="8683"/>
-      <shelf name="currently-reading" count="3038"/>
-      <shelf name="book-club" count="921"/>
-      <shelf name="favourites" count="463"/>
-      <shelf name="fiction" count="410"/>
-      <shelf name="contemporary" count="380"/>
-      <shelf name="afghanistan" count="372"/>
-      <shelf name="middle-east" count="352"/>
-      <shelf name="favorites" count="328"/>
-      <shelf name="novels" count="309"/>
+      <shelf name="fantasy" count="21042"/>
+      <shelf name="favorites" count="7155"/>
+      <shelf name="classics" count="4897"/>
+      <shelf name="to-read" count="2517"/>
+      <shelf name="classic" count="1115"/>
+      <shelf name="series" count="998"/>
+      <shelf name="sci-fi-fantasy" count="934"/>
+      <shelf name="adventure" count="907"/>
+      <shelf name="favourites" count="653"/>
+      <shelf name="epic-fantasy" count="615"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -199,300 +198,365 @@
 
   </book_links>
   <series_works>
+    <series_work>
+<id>291504</id>
+<user_position>1</user_position>
+<series>
+<id>66175</id>
+<title>
+<![CDATA[
+    The Lord of the Rings
+]]>
+</title>
+<description>
+<![CDATA[
+    See also:
+    * <a href="http://www.goodreads.com/series/58079-unfinished-tales">Unfinished Tales</a>
+    * <a href="http://www.goodreads.com/series/45924-the-history-of-middle-earth">The History of Middle-Earth</a>
     
+    The Lord of the Rings is an epic high fantasy trilogy written by English philologist and University of Oxford professor J.R.R. Tolkien. The story began as a sequel to Tolkien's earlier, less complex children's fantasy novel [book:The Hobbit|5907] (1937), but eventually developed into a much larger work which formed the basis for the extended <a href="http://www.goodreads.com/series/58083-middle-earth-universe">Middle-Earth Universe</a>. It was written in stages between 1937 and 1949, much of it during World War II. It is the third best-selling novel ever written, with over 150 million copies sold.
+    
+    Also known as:
+    * El Señor de los Anillos
+    * Der Herr der Ringe
+    * O Senhor dos Anéis
+    * Le Seigneur des Anneaux
+    * A Gyűrűk Ura
+    * Gredzenu pavēlnieks
+    * Härskarringen
+    * In de Ban van de Ring
+    * Gospodar prstenova
+    * Pán Prsteňov
+    * Pán prstenů
+    * Ringenes Herre 
+    * Il Signore degli Anelli
+    * Sõrmuste Isand
+    * Stăpânul inelelor
+    * Taru sormusten herrasta
+    * Władca Pierścieni
+    * Yüzüklerin Efendisi
+    * Властелинът на пръстените
+    * Ο άρχοντας των δαχτυλιδιών
+    * ბეჭდების მბრძანებელი
+    * 魔戒
+    * 指輪物語
+    * Gospodar prstanov
+    
+    Also published in <a href="http://www.goodreads.com/series/58085-the-lord-of-the-rings-seven-book-editions">seven volumes (six books plus the appendices)</a>.
+]]>
+</description>
+<note>
+<![CDATA[
+    The list of translations is useful for series searches (see http://www.goodreads.com/series for the link)
+]]>
+</note>
+<series_works_count>6</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+<series_work>
+<id>241857</id>
+<user_position></user_position>
+<series>
+<id>58083</id>
+<title>
+<![CDATA[
+    Middle-Earth Universe
+]]>
+</title>
+<description>
+<![CDATA[
+    Includes:
+    * <a href="http://www.goodreads.com/series/66175-the-lord-of-the-rings">The Lord of the Rings</a>
+    * <a href="http://www.goodreads.com/series/58079-unfinished-tales">Unfinished Tales</a>
+    * <a href="http://www.goodreads.com/series/45924-the-history-of-middle-earth">The History of Middle-earth</a>
+]]>
+</description>
+<note>
+<![CDATA[
+    Listed in publication order. This is not a series, it is a setting.
+]]>
+</note>
+<series_works_count>45</series_works_count>
+<primary_work_count>24</primary_work_count>
+<numbered>false</numbered>
+</series>
+
+</series_work>
+
   </series_works>
-      <public_document>
-        <id>34323</id>
-        <document_url>
-          http://photo.goodreads.com/documents/1361487659books/128029.epub
-        </document_url>
-      </public_document>
   <similar_books>
           <book>
-<id>211264</id>
-<title>Fludd</title>
-<isbn>0007172893</isbn>
-<isbn13>9780007172894</isbn13>
+<id>104089</id>
+<title>Tigana</title>
+<isbn>0451457765</isbn>
+<isbn13>9780451457769</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.53</average_rating>
-<ratings_count>816</ratings_count>
+<average_rating>4.12</average_rating>
+<ratings_count>18956</ratings_count>
 <authors>
   <author>
-    <id>58851</id>
-    <name>Hilary Mantel</name>
+    <id>60177</id>
+    <name>Guy Gavriel Kay</name>
   </author>
 </authors>
 </book>
           <book>
-<id>6116753</id>
-<title>Boom!</title>
-<isbn>0385616295</isbn>
-<isbn13>9780385616294</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327910076s/6116753.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327910076m/6116753.jpg]]></image_url>
-<average_rating>3.37</average_rating>
-<ratings_count>1407</ratings_count>
-<authors>
-  <author>
-    <id>1050</id>
-    <name>Mark Haddon</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>10158656</id>
-<title>22 Britannia Road</title>
-<isbn>1611760038</isbn>
-<isbn13>9781611760033</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354984677s/10158656.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354984677m/10158656.jpg]]></image_url>
-<average_rating>3.60</average_rating>
-<ratings_count>4738</ratings_count>
-<authors>
-  <author>
-    <id>4567126</id>
-    <name>Amanda Hodgkinson</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>85301</id>
-<title>Unaccustomed Earth</title>
-<isbn>0676979343</isbn>
-<isbn13>9780676979343</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140s/85301.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140m/85301.jpg]]></image_url>
-<average_rating>4.10</average_rating>
-<ratings_count>42781</ratings_count>
-<authors>
-  <author>
-    <id>3670</id>
-    <name>Jhumpa Lahiri</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>129783</id>
-<title>The Other Side of the Bridge</title>
-<isbn>0385340370</isbn>
-<isbn13>9780385340373</isbn13>
+<id>227454</id>
+<title><![CDATA[The Legacy (Forgotten Realms: Legacy of the Drow, #1; Legend of Drizzt, #7)]]></title>
+<isbn>0786939842</isbn>
+<isbn13>9780786939848</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.98</average_rating>
-<ratings_count>2451</ratings_count>
+<average_rating>4.18</average_rating>
+<ratings_count>12307</ratings_count>
 <authors>
   <author>
-    <id>5619</id>
-    <name>Mary Lawson</name>
+    <id>1023510</id>
+    <name>R.A. Salvatore</name>
   </author>
 </authors>
 </book>
           <book>
-<id>1103</id>
-<title><![CDATA[Snow Flower and the Secret Fan]]></title>
-<isbn>0812968069</isbn>
-<isbn13>9780812968064</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508s/1103.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508m/1103.jpg]]></image_url>
-<average_rating>4.02</average_rating>
-<ratings_count>190780</ratings_count>
+<id>68041</id>
+<title>The Earthsea Quartet</title>
+<isbn>0140154272</isbn>
+<isbn13>9780140154276</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1330196610s/68041.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1330196610m/68041.jpg]]></image_url>
+<average_rating>4.22</average_rating>
+<ratings_count>2449</ratings_count>
 <authors>
   <author>
-    <id>713</id>
-    <name>Lisa See</name>
+    <id>874602</id>
+    <name>Ursula K. Le Guin</name>
   </author>
 </authors>
 </book>
           <book>
-<id>3591262</id>
-<title>Cutting for Stone</title>
-<isbn>0375414495</isbn>
-<isbn13>9780375414497</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327931601s/3591262.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327931601m/3591262.jpg]]></image_url>
-<average_rating>4.26</average_rating>
-<ratings_count>154130</ratings_count>
-<authors>
-  <author>
-    <id>93353</id>
-    <name>Abraham Verghese</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>16527</id>
-<title>Daughter of Fortune</title>
-<isbn>0061120251</isbn>
-<isbn13>9780061120251</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1299666780s/16527.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1299666780m/16527.jpg]]></image_url>
-<average_rating>3.85</average_rating>
-<ratings_count>63526</ratings_count>
-<authors>
-  <author>
-    <id>2238</id>
-    <name>Isabel Allende</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>6452760</id>
-<title><![CDATA[Stones Into Schools: Promoting Peace With Books, Not Bombs, in Afghanistan and Pakistan]]></title>
-<isbn>0670021156</isbn>
-<isbn13>9780670021154</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260845553s/6452760.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260845553m/6452760.jpg]]></image_url>
-<average_rating>3.89</average_rating>
-<ratings_count>9896</ratings_count>
-<authors>
-  <author>
-    <id>27837</id>
-    <name>Greg Mortenson</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>2138727</id>
-<title>Mudbound</title>
-<isbn>156512569X</isbn>
-<isbn13>9781565125698</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1296591096s/2138727.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1296591096m/2138727.jpg]]></image_url>
-<average_rating>3.98</average_rating>
-<ratings_count>28445</ratings_count>
-<authors>
-  <author>
-    <id>972440</id>
-    <name>Hillary Jordan</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>5211</id>
-<title>A Fine Balance</title>
-<isbn>140003065X</isbn>
-<isbn13>9781400030651</isbn13>
+<id>22875</id>
+<title><![CDATA[The One Tree (The Second Chronicles of Thomas Covenant, #2)]]></title>
+<isbn>0345418476</isbn>
+<isbn13>9780345418470</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.32</average_rating>
-<ratings_count>65507</ratings_count>
+<average_rating>3.93</average_rating>
+<ratings_count>8655</ratings_count>
 <authors>
   <author>
-    <id>3539</id>
-    <name>Rohinton Mistry</name>
+    <id>12980</id>
+    <name>Stephen R. Donaldson</name>
   </author>
 </authors>
 </book>
           <book>
-<id>3367956</id>
-<title><![CDATA[Hotel on the Corner of Bitter and Sweet]]></title>
-<isbn>0345505336</isbn>
-<isbn13>9780345505330</isbn13>
+<id>259836</id>
+<title><![CDATA[Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)]]></title>
+<isbn>0786915749</isbn>
+<isbn13>9780786915743</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1390668127s/259836.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1390668127m/259836.jpg]]></image_url>
+<average_rating>4.04</average_rating>
+<ratings_count>39921</ratings_count>
+<authors>
+  <author>
+    <id>869</id>
+    <name>Margaret Weis</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>645023</id>
+<title><![CDATA[Castle of Wizardry (The Belgariad, #4)]]></title>
+<isbn>0345335708</isbn>
+<isbn13>9780345335708</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.94</average_rating>
-<ratings_count>121929</ratings_count>
+<average_rating>4.14</average_rating>
+<ratings_count>35445</ratings_count>
 <authors>
   <author>
-    <id>1421619</id>
-    <name>Jamie Ford</name>
+    <id>8732</id>
+    <name>David Eddings</name>
   </author>
 </authors>
 </book>
           <book>
-<id>94672</id>
-<title>Beneath a Marble Sky</title>
-<isbn>0451218469</isbn>
-<isbn13>9780451218469</isbn13>
+<id>185200</id>
+<title><![CDATA[The Magic Engineer (The Saga of Recluce, #3)]]></title>
+<isbn>0812534050</isbn>
+<isbn13>9780812534054</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.99</average_rating>
-<ratings_count>8288</ratings_count>
+<average_rating>3.95</average_rating>
+<ratings_count>5358</ratings_count>
 <authors>
   <author>
-    <id>54450</id>
-    <name>John Shors</name>
+    <id>1301649</id>
+    <name>L.E. Modesitt Jr.</name>
   </author>
 </authors>
 </book>
           <book>
-<id>337615</id>
-<title><![CDATA[Nine Parts of Desire: The Hidden World of Islamic Women]]></title>
-<isbn>0385475772</isbn>
-<isbn13>9780385475778</isbn13>
+<id>34499</id>
+<title>Sourcery (Discworld, #5)</title>
+<isbn>0061020672</isbn>
+<isbn13>9780061020674</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.03</average_rating>
-<ratings_count>6987</ratings_count>
+<average_rating>3.81</average_rating>
+<ratings_count>29559</ratings_count>
 <authors>
   <author>
-    <id>211268</id>
-    <name>Geraldine Brooks</name>
+    <id>1654</id>
+    <name>Terry Pratchett</name>
   </author>
 </authors>
 </book>
           <book>
-<id>587666</id>
-<title>Like the Flowing River </title>
-<isbn>0007235801</isbn>
-<isbn13>9780007235803</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356806433s/587666.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356806433m/587666.jpg]]></image_url>
-<average_rating>3.96</average_rating>
-<ratings_count>7755</ratings_count>
-<authors>
-  <author>
-    <id>566</id>
-    <name>Paulo Coelho</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>164814</id>
-<title>The Rice Mother</title>
-<isbn>0142004545</isbn>
-<isbn13>9780142004548</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206443s/164814.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206443m/164814.jpg]]></image_url>
-<average_rating>4.06</average_rating>
-<ratings_count>2014</ratings_count>
-<authors>
-  <author>
-    <id>95806</id>
-    <name>Rani Manicka</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>12555</id>
-<title>The Bonesetter&apos;s Daughter</title>
-<isbn>0345457374</isbn>
-<isbn13>9780345457370</isbn13>
+<id>92138</id>
+<title>The Book of D&apos;ni (Myst, #3)</title>
+<isbn>078688942X</isbn>
+<isbn13>9780786889426</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.96</average_rating>
-<ratings_count>69406</ratings_count>
+<average_rating>3.93</average_rating>
+<ratings_count>1641</ratings_count>
 <authors>
   <author>
-    <id>5246</id>
-    <name>Amy Tan</name>
+    <id>34408</id>
+    <name>Rand Miller</name>
   </author>
 </authors>
 </book>
           <book>
-<id>218357</id>
-<title>The Space Between Us</title>
-<isbn>006079156X</isbn>
-<isbn13>9780060791568</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.96</average_rating>
-<ratings_count>19206</ratings_count>
+<id>13337716</id>
+<title><![CDATA[A Dance with Dragons: After the Feast (A Song of Ice and Fire #5, Part 2 of 2)]]></title>
+<isbn>0007466072</isbn>
+<isbn13>9780007466078</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327932256s/13337716.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327932256m/13337716.jpg]]></image_url>
+<average_rating>4.37</average_rating>
+<ratings_count>3909</ratings_count>
 <authors>
   <author>
-    <id>127875</id>
-    <name>Thrity Umrigar</name>
+    <id>346732</id>
+    <name>George R.R. Martin</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18887</id>
+<title><![CDATA[The Prisoner in the Oak (The Mists of Avalon, #4)]]></title>
+<isbn>1419324721</isbn>
+<isbn13>9781419324727</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1313592586s/18887.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1313592586m/18887.jpg]]></image_url>
+<average_rating>4.13</average_rating>
+<ratings_count>1424</ratings_count>
+<authors>
+  <author>
+    <id>4841825</id>
+    <name>Marion Zimmer Bradley</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>1438096</id>
+<title>Firesong (Wind On Fire, #3)</title>
+<isbn>0007179391</isbn>
+<isbn13>9780007179398</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.00</average_rating>
+<ratings_count>4592</ratings_count>
+<authors>
+  <author>
+    <id>46130</id>
+    <name>William Nicholson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>127586</id>
+<title>The White Dragon (Pern, #3)</title>
+<isbn>0345341678</isbn>
+<isbn13>9780345341679</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1307994871s/127586.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1307994871m/127586.jpg]]></image_url>
+<average_rating>4.14</average_rating>
+<ratings_count>23115</ratings_count>
+<authors>
+  <author>
+    <id>26</id>
+    <name>Anne McCaffrey</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>186669</id>
+<title><![CDATA[Brilliance of the Moon (Tales of the Otori, #3)]]></title>
+<isbn>1594480869</isbn>
+<isbn13>9781594480867</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.01</average_rating>
+<ratings_count>8365</ratings_count>
+<authors>
+  <author>
+    <id>43784</id>
+    <name>Lian Hearn</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>34897</id>
+<title><![CDATA[The Dragon Reborn (Wheel of Time, #3)]]></title>
+<isbn>0765305119</isbn>
+<isbn13>9780765305114</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.19</average_rating>
+<ratings_count>100936</ratings_count>
+<authors>
+  <author>
+    <id>6252</id>
+    <name>Robert Jordan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>68455</id>
+<title><![CDATA[Wieża jaskółki (Saga o Wiedźminie, #6)]]></title>
+<isbn>8370541240</isbn>
+<isbn13>9788370541248</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.34</average_rating>
+<ratings_count>4128</ratings_count>
+<authors>
+  <author>
+    <id>38569</id>
+    <name>Andrzej Sapkowski</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>13813</id>
+<title><![CDATA[A Darkness At Sethanon (The Riftwar Saga, #4)]]></title>
+<isbn>0586066888</isbn>
+<isbn13>9780586066881</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.15</average_rating>
+<ratings_count>29778</ratings_count>
+<authors>
+  <author>
+    <id>8588</id>
+    <name>Raymond E. Feist</name>
   </author>
 </authors>
 </book>

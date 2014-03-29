@@ -1,0 +1,23 @@
+Step 1 : Getting data in xml form from GoodReads using their API 
+
+https://www.goodreads.com/api#book.show_by_isbn
+
+Step 2 : Download this xml data using python into a file and parse contents of it into a text file as well
+
+urllib2 for downloading page source
+http://stackoverflow.com/questions/1912434/how-do-i-parse-xml-in-python
+
+Step 3 : Feed this xml file into a html page somehow. How to parse xml using js in html?
+
+http://stackoverflow.com/questions/13204165/using-javascript-to-parse-an-xml-file
+
+Step 4 : Make the page look better using Twitter bootstrap
+
+http://getbootstrap.com/2.3.2/index.html
+http://getbootstrap.com/css/#tables
+
+Step 5 : Make it a web app
+
+Express : http://expressjs.com/guide.html
+
+http://stackoverflow.com/questions/15568851/how-i-can-send-data-from-html-form-to-node-js-function

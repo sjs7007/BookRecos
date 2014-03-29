@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[G0YLe4KJic94J0Bi0zeBQ]]></key>
+    <method><![CDATA[book_isbn]]></method>
+  </Request>
+  <book>
+  <id>13563330</id>
+  <title><![CDATA[Harry Potter and the Sorcerer's Stone (Harry Potter, #1)]]></title>
+  <isbn><![CDATA[1781100276]]></isbn>
+  <isbn13><![CDATA[9781781100271]]></isbn13>
+  <asin><![CDATA[]]></asin>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1332901218m/13563330.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1332901218s/13563330.jpg</small_image_url>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <publication_day>27</publication_day>
+  <publisher>Scholastic, Inc</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[Harry Potter has never played a sport while flying on a broomstick. He's never worn a cloak of invisibility, befriended a giant, or helped hatch a dragon. All Harry knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley. Harry's room is a tiny closet at the foot of the stairs, and he hasn't had a birthday party in eleven years.<br>But all that is about to change when a mysterious letter arrives by owl messenger: a letter with an invitation to a wonderful place he never dreamed existed. There he finds not only friends, aerial sports, and magic around every corner, but a great destiny that's been waiting for him...if Harry can survive the encounter.<br><br>Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Witchcraft and Wizardry.]]></description>
+  <work>
+  <best_book_id type="integer">3</best_book_id>
+  <books_count type="integer">110</books_count>
+  <default_chaptering_book_id type="integer">121121</default_chaptering_book_id>
+  <default_description_language_code nil="true"/>
+  <desc_user_id type="integer">171430</desc_user_id>
+  <id type="integer">4640799</id>
+  <media_type>book</media_type>
+  <original_language_id type="integer" nil="true"/>
+  <original_publication_day type="integer">1</original_publication_day>
+  <original_publication_month type="integer">1</original_publication_month>
+  <original_publication_year type="integer">1997</original_publication_year>
+  <original_title>Harry Potter and the Philosopher's Stone</original_title>
+  <rating_dist>5:919574|4:438818|3:201022|1:24406|2:44287|total:1628107</rating_dist>
+  <ratings_count type="integer">2382560</ratings_count>
+  <ratings_sum type="integer">10418974</ratings_sum>
+  <reviews_count type="integer">2687044</reviews_count>
+  <text_reviews_count type="integer">39148</text_reviews_count>
+</work>
+  <average_rating>4.37</average_rating>
+  <num_pages><![CDATA[271]]></num_pages>
+  <format><![CDATA[ebook, Nook]]></format>
+  <edition_information><![CDATA[Pottermore]]></edition_information>
+  <ratings_count><![CDATA[147]]></ratings_count>
+  <text_reviews_count><![CDATA[20]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/13563330-harry-potter-and-the-sorcerer-s-stone]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/13563330-harry-potter-and-the-sorcerer-s-stone]]></link>
+  <authors>
+  <author>
+    <id>1077326</id>
+    <name>J.K. Rowling</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395427571p5/1077326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1395427571p2/1077326.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+    <average_rating>4.39</average_rating>
+    <ratings_count>9774957</ratings_count>
+    <text_reviews_count>207530</text_reviews_count>
+  </author>
+</authors>
+
+    <reviews_widget>
+      <![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/13563330-harry-potter-and-the-sorcerer-s-stone">Harry Potter and the Sorcerer's Stone Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1781100276&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a href="https://www.goodreads.com/book/show/13563330-harry-potter-and-the-sorcerer-s-stone?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]>
+    </reviews_widget>
+  <popular_shelves>
+      <shelf name="young-adult" count="9686"/>
+      <shelf name="fiction" count="8053"/>
+      <shelf name="harry-potter" count="5240"/>
+      <shelf name="to-read" count="3706"/>
+      <shelf name="ya" count="3078"/>
+      <shelf name="series" count="2620"/>
+      <shelf name="childrens" count="2417"/>
+      <shelf name="magic" count="2360"/>
+      <shelf name="favourites" count="2038"/>
+      <shelf name="favorites" count="1638"/>
+  </popular_shelves>
+  <book_links>
+    <book_link>
+  <id>1</id>
+  <name>Amazon</name>
+  <link>https://www.goodreads.com/book_link/follow/1</link>
+</book_link>
+<book_link>
+  <id>3</id>
+  <name>Barnes &amp; Noble</name>
+  <link>https://www.goodreads.com/book_link/follow/3</link>
+</book_link>
+<book_link>
+  <id>1027</id>
+  <name>Kobo</name>
+  <link>https://www.goodreads.com/book_link/follow/1027</link>
+</book_link>
+<book_link>
+  <id>4</id>
+  <name>Abebooks</name>
+  <link>https://www.goodreads.com/book_link/follow/4</link>
+</book_link>
+<book_link>
+  <id>10</id>
+  <name>Audible</name>
+  <link>https://www.goodreads.com/book_link/follow/10</link>
+</book_link>
+<book_link>
+  <id>882</id>
+  <name>Book Depository</name>
+  <link>https://www.goodreads.com/book_link/follow/882</link>
+</book_link>
+<book_link>
+  <id>9</id>
+  <name>Indigo</name>
+  <link>https://www.goodreads.com/book_link/follow/9</link>
+</book_link>
+<book_link>
+  <id>2</id>
+  <name>Half.com</name>
+  <link>https://www.goodreads.com/book_link/follow/2</link>
+</book_link>
+<book_link>
+  <id>5</id>
+  <name>Alibris</name>
+  <link>https://www.goodreads.com/book_link/follow/5</link>
+</book_link>
+<book_link>
+  <id>2102</id>
+  <name>iBooks</name>
+  <link>https://www.goodreads.com/book_link/follow/2102</link>
+</book_link>
+<book_link>
+  <id>107</id>
+  <name>Better World Books</name>
+  <link>https://www.goodreads.com/book_link/follow/107</link>
+</book_link>
+<book_link>
+  <id>3928</id>
+  <name>Target.com</name>
+  <link>https://www.goodreads.com/book_link/follow/3928</link>
+</book_link>
+<book_link>
+  <id>1602</id>
+  <name>Google Play</name>
+  <link>https://www.goodreads.com/book_link/follow/1602</link>
+</book_link>
+<book_link>
+  <id>7</id>
+  <name>IndieBound</name>
+  <link>https://www.goodreads.com/book_link/follow/7</link>
+</book_link>
+<book_link>
+  <id>8</id>
+  <name>Libraries</name>
+  <link>https://www.goodreads.com/book_link/follow/8</link>
+</book_link>
+
+  </book_links>
+  <series_works>
+    <series_work>
+<id>167817</id>
+<user_position>1</user_position>
+<series>
+<id>45175</id>
+<title>
+<![CDATA[
+    Harry Potter
+]]>
+</title>
+<description>
+<![CDATA[
+    This seven-book series about a young British wizard named <a href="http://www.goodreads.com/characters/1-harry-potter">Harry Potter</a> has been translated into many languages.
+    Also known as:
+    * Harijs Poters
+    * Hari Poter
+    * Χάρι Πότερ
+    * Hairī Pôṭara
+    * Хари Потър
+    * Гаррі Поттер
+    * Гарри Поттер
+    * ハリー・ポッターシリーズ
+    * 哈利波特
+    * הארי פוטר
+    * แฮร์รี่ พอตเตอร์
+    
+    See also the <a href="http://www.goodreads.com/series/82851-harry-potter-companion-books">companion books</a>.
+    
+    The whole series is comprised of one epic story.
+]]>
+</description>
+<note>
+<![CDATA[
+    Please leave all of the boxed sets and book parts in the listing and do not remove the list of translated series names from the description!
+]]>
+</note>
+<series_works_count>32</series_works_count>
+<primary_work_count>7</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
+  </series_works>
+  <similar_books>
+          <book>
+<id>13831</id>
+<title><![CDATA[Alanna: The First Adventure (Song of the Lioness, #1)]]></title>
+<isbn>0689878559</isbn>
+<isbn13>9780689878558</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.26</average_rating>
+<ratings_count>54072</ratings_count>
+<authors>
+  <author>
+    <id>8596</id>
+    <name>Tamora Pierce</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>590324</id>
+<title><![CDATA[The Serpent Gift (The Shamer Chronicles, #3)]]></title>
+<isbn>0805077707</isbn>
+<isbn13>9780805077704</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364430127s/590324.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364430127m/590324.jpg]]></image_url>
+<average_rating>4.10</average_rating>
+<ratings_count>1422</ratings_count>
+<authors>
+  <author>
+    <id>3116926</id>
+    <name>Lene Kaaberbøl</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>291354</id>
+<title><![CDATA[The Ruby Knight (The Elenium, #2)]]></title>
+<isbn>0345373529</isbn>
+<isbn13>9780345373526</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.91</average_rating>
+<ratings_count>16538</ratings_count>
+<authors>
+  <author>
+    <id>8732</id>
+    <name>David Eddings</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>24337</id>
+<title>Ella Enchanted</title>
+<isbn>0590920685</isbn>
+<isbn13>9780590920681</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1395218045s/24337.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1395218045m/24337.jpg]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>204362</ratings_count>
+<authors>
+  <author>
+    <id>13677</id>
+    <name>Gail Carson Levine</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>24781</id>
+<title><![CDATA[The High King (The Chronicles of Prydain, #5)]]></title>
+<isbn>080508052X</isbn>
+<isbn13>9780805080520</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.25</average_rating>
+<ratings_count>26099</ratings_count>
+<authors>
+  <author>
+    <id>8924</id>
+    <name>Lloyd Alexander</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>994703</id>
+<title><![CDATA[Fifth Formers of St Clare's (St. Clare's, #8)]]></title>
+<isbn>0749719141</isbn>
+<isbn13>9780749719142</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1259342422s/994703.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1259342422m/994703.jpg]]></image_url>
+<average_rating>4.02</average_rating>
+<ratings_count>2050</ratings_count>
+<authors>
+  <author>
+    <id>10657</id>
+    <name>Enid Blyton</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>295809</id>
+<title><![CDATA[Magic by the Lake (Tales of Magic, #3)]]></title>
+<isbn>0152020772</isbn>
+<isbn13>9780152020774</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.06</average_rating>
+<ratings_count>2451</ratings_count>
+<authors>
+  <author>
+    <id>131683</id>
+    <name>Edward Eager</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>119494</id>
+<title><![CDATA[The Lake of Tears (Deltora Quest, #2)]]></title>
+<isbn>0439253241</isbn>
+<isbn13>9780439253246</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.91</average_rating>
+<ratings_count>4085</ratings_count>
+<authors>
+  <author>
+    <id>3995</id>
+    <name>Emily Rodda</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>7980</id>
+<title>Pearls of Lutra (Redwall, #9)</title>
+<isbn>0142401447</isbn>
+<isbn13>9780142401446</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>9653</ratings_count>
+<authors>
+  <author>
+    <id>5329</id>
+    <name>Brian Jacques</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>127459</id>
+<title><![CDATA[The Sweet Far Thing (Gemma Doyle, #3)]]></title>
+<isbn>0385730306</isbn>
+<isbn13>9780385730303</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1358704741s/127459.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1358704741m/127459.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>37541</ratings_count>
+<authors>
+  <author>
+    <id>2526</id>
+    <name>Libba Bray</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>215541</id>
+<title><![CDATA[The Reality Bug (Pendragon, #4)]]></title>
+<isbn>0743437349</isbn>
+<isbn13>9780743437349</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.15</average_rating>
+<ratings_count>11298</ratings_count>
+<authors>
+  <author>
+    <id>74046</id>
+    <name>D.J. MacHale</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>116564</id>
+<title><![CDATA[A Wizard Abroad (Young Wizards, #4)]]></title>
+<isbn>0152055037</isbn>
+<isbn13>9780152055035</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1303797089s/116564.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1303797089m/116564.jpg]]></image_url>
+<average_rating>3.98</average_rating>
+<ratings_count>6892</ratings_count>
+<authors>
+  <author>
+    <id>11761</id>
+    <name>Diane Duane</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>13888</id>
+<title><![CDATA[Knife of Dreams (Wheel of Time, #11)]]></title>
+<isbn>0812577566</isbn>
+<isbn13>9780812577563</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.08</average_rating>
+<ratings_count>39126</ratings_count>
+<authors>
+  <author>
+    <id>6252</id>
+    <name>Robert Jordan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>59263</id>
+<title><![CDATA[The Golem's Eye (Bartimaeus, #2)]]></title>
+<isbn>0786836547</isbn>
+<isbn13>9780786836543</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.08</average_rating>
+<ratings_count>48273</ratings_count>
+<authors>
+  <author>
+    <id>33467</id>
+    <name>Jonathan Stroud</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>519933</id>
+<title><![CDATA[The Lives of Christopher Chant (Chrestomanci, #4)]]></title>
+<isbn>0688163653</isbn>
+<isbn13>9780688163655</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356549015s/519933.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356549015m/519933.jpg]]></image_url>
+<average_rating>4.21</average_rating>
+<ratings_count>12205</ratings_count>
+<authors>
+  <author>
+    <id>4260</id>
+    <name>Diana Wynne Jones</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>2223324</id>
+<title><![CDATA[Harry Potter and the Chamber of Secrets: Sheet Music for Flute with C.D]]></title>
+<isbn>075791084X</isbn>
+<isbn13>9780757910845</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.54</average_rating>
+<ratings_count>11043</ratings_count>
+<authors>
+  <author>
+    <id>616</id>
+    <name>John Williams</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>28186</id>
+<title><![CDATA[The Sea of Monsters (Percy Jackson and the Olympians, #2)]]></title>
+<isbn>0786856866</isbn>
+<isbn13>9780786856862</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361038367s/28186.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361038367m/28186.jpg]]></image_url>
+<average_rating>4.19</average_rating>
+<ratings_count>233179</ratings_count>
+<authors>
+  <author>
+    <id>15872</id>
+    <name>Rick Riordan</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>28875</id>
+<title><![CDATA[Three Tales of My Father's Dragon]]></title>
+<isbn>0679889116</isbn>
+<isbn13>9780679889113</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1350481640s/28875.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1350481640m/28875.jpg]]></image_url>
+<average_rating>4.24</average_rating>
+<ratings_count>1117</ratings_count>
+<authors>
+  <author>
+    <id>16215</id>
+    <name>Ruth Stiles Gannett</name>
+  </author>
+</authors>
+</book>
+  </similar_books>
+</book>
+
+</GoodreadsResponse>
