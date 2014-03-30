@@ -7,6 +7,11 @@ app.get('/hello.txt', function(req, res){
 	res.send('Hello World');
 });
 
+app.get('/Output.xml', function(req, res){
+	res.set('Content-Type','text/xml');
+	res.sendfile('Output.xml');
+});
+
 app.get('/ISBNSearch', function(req, res){
 	console.log("Request handler 'ISBNSearch' was called.");
 	var content = "empty";

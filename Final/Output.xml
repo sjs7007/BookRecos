@@ -6,57 +6,57 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>899777</id>
-  <title><![CDATA[The Fellowship of the Ring (The Lord of the Rings #1)]]></title>
-  <isbn><![CDATA[0261103571]]></isbn>
-  <isbn13><![CDATA[9780261103573]]></isbn13>
+  <id>53732</id>
+  <title>Dune (Dune Chronicles, #1)</title>
+  <isbn><![CDATA[0441172717]]></isbn>
+  <isbn13><![CDATA[9780441172719]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1390044656m/899777.jpg</image_url>
-  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1390044656s/899777.jpg</small_image_url>
-  <publication_year>1997</publication_year>
-  <publication_month>11</publication_month>
-  <publication_day>3</publication_day>
-  <publisher>HarperCollins Publishers Ltd</publisher>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <publication_year>1990</publication_year>
+  <publication_month>9</publication_month>
+  <publication_day>1</publication_day>
+  <publisher>Ace/Berkley Books</publisher>
   <language_code>eng</language_code>
   <is_ebook>false</is_ebook>
-  <description><![CDATA[The first volume in J.R.R. Tolkien's epic adventure <em>The Lord of the Rings</em>. In a sleepy village in the Shire a young hobbit is entrusted with a immense task. He must make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ruling Ring of Power - the only thing that prevents the Dark Lord's evil dominion.]]></description>
+  <description><![CDATA[Here is the novel that will be forever considered a triumph of the imagination. Set on the desert planet Arrakis, <strong>Dune</strong> is the story of the boy Paul Atreides, who would become the mysterious man known as Muad'Dib. He would avenge the traitorous plot against his noble family--and would bring to fruition humankind's most ancient and unattainable dream.<br> A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what it undoubtedly the grandest epic in science fiction.]]></description>
   <work>
-  <best_book_id type="integer">34</best_book_id>
-  <books_count type="integer">416</books_count>
-  <default_chaptering_book_id type="integer">5153604</default_chaptering_book_id>
+  <best_book_id type="integer">234225</best_book_id>
+  <books_count type="integer">172</books_count>
+  <default_chaptering_book_id type="integer" nil="true"/>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer">1986715</desc_user_id>
-  <id type="integer">3204327</id>
+  <desc_user_id type="integer">1317471</desc_user_id>
+  <id type="integer">3634639</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
-  <original_publication_day type="integer">29</original_publication_day>
-  <original_publication_month type="integer">7</original_publication_month>
-  <original_publication_year type="integer">1954</original_publication_year>
-  <original_title>The Fellowship of the Ring</original_title>
-  <rating_dist>5:372852|4:188879|1:18329|3:87767|2:26653|total:694480</rating_dist>
-  <ratings_count type="integer">1037509</ratings_count>
-  <ratings_sum type="integer">4449387</ratings_sum>
-  <reviews_count type="integer">1266665</reviews_count>
-  <text_reviews_count type="integer">9079</text_reviews_count>
+  <original_publication_day type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_year type="integer">1965</original_publication_year>
+  <original_title>Dune</original_title>
+  <rating_dist>3:50993|4:93396|5:146278|2:16740|1:11087|total:318494</rating_dist>
+  <ratings_count type="integer">336708</ratings_count>
+  <ratings_sum type="integer">1381802</ratings_sum>
+  <reviews_count type="integer">466859</reviews_count>
+  <text_reviews_count type="integer">7454</text_reviews_count>
 </work>
-  <average_rating>4.29</average_rating>
-  <num_pages><![CDATA[416]]></num_pages>
+  <average_rating>4.10</average_rating>
+  <num_pages><![CDATA[536]]></num_pages>
   <format><![CDATA[Paperback]]></format>
-  <edition_information><![CDATA[]]></edition_information>
-  <ratings_count><![CDATA[114]]></ratings_count>
-  <text_reviews_count><![CDATA[7]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring]]></link>
+  <edition_information><![CDATA[Special 25th Anniversary Edition]]></edition_information>
+  <ratings_count><![CDATA[6402]]></ratings_count>
+  <text_reviews_count><![CDATA[607]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/53732.Dune]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/53732.Dune]]></link>
   <authors>
   <author>
-    <id>656983</id>
-    <name>J.R.R. Tolkien</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383526938p5/656983.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1383526938p2/656983.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
-    <average_rating>4.27</average_rating>
-    <ratings_count>3737668</ratings_count>
-    <text_reviews_count>59609</text_reviews_count>
+    <id>58</id>
+    <name>Frank Herbert</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p5/58.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168661521p2/58.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+    <average_rating>4.00</average_rating>
+    <ratings_count>586073</ratings_count>
+    <text_reviews_count>12143</text_reviews_count>
   </author>
 </authors>
 
@@ -98,26 +98,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring">The Fellowship of the Ring Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0261103571&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/53732.Dune">Dune Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0441172717&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/899777.The_Fellowship_of_the_Ring?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/53732.Dune?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="fantasy" count="21042"/>
-      <shelf name="favorites" count="7155"/>
-      <shelf name="classics" count="4897"/>
-      <shelf name="to-read" count="2517"/>
-      <shelf name="classic" count="1115"/>
-      <shelf name="series" count="998"/>
-      <shelf name="sci-fi-fantasy" count="934"/>
-      <shelf name="adventure" count="907"/>
-      <shelf name="favourites" count="653"/>
-      <shelf name="epic-fantasy" count="615"/>
+      <shelf name="to-read" count="111342"/>
+      <shelf name="science-fiction" count="6332"/>
+      <shelf name="sci-fi" count="5356"/>
+      <shelf name="currently-reading" count="4602"/>
+      <shelf name="favorites" count="3251"/>
+      <shelf name="fiction" count="2470"/>
+      <shelf name="fantasy" count="1688"/>
+      <shelf name="scifi" count="1194"/>
+      <shelf name="classics" count="988"/>
+      <shelf name="sci-fi-fantasy" count="753"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -199,89 +199,57 @@
   </book_links>
   <series_works>
     <series_work>
-<id>291504</id>
+<id>166801</id>
 <user_position>1</user_position>
 <series>
-<id>66175</id>
+<id>45935</id>
 <title>
 <![CDATA[
-    The Lord of the Rings
+    Dune Chronicles
 ]]>
 </title>
 <description>
 <![CDATA[
+    Also known as Dune Saga, Kroniki Diuny and Dyyni.
+    
+    The first six volumes of this series have also been published as a <a href="http://www.goodreads.com/series/58317-il-ciclo-di-dune">two-volume omnibus series</a>.
+    
     See also:
-    * <a href="http://www.goodreads.com/series/58079-unfinished-tales">Unfinished Tales</a>
-    * <a href="http://www.goodreads.com/series/45924-the-history-of-middle-earth">The History of Middle-Earth</a>
-    
-    The Lord of the Rings is an epic high fantasy trilogy written by English philologist and University of Oxford professor J.R.R. Tolkien. The story began as a sequel to Tolkien's earlier, less complex children's fantasy novel [book:The Hobbit|5907] (1937), but eventually developed into a much larger work which formed the basis for the extended <a href="http://www.goodreads.com/series/58083-middle-earth-universe">Middle-Earth Universe</a>. It was written in stages between 1937 and 1949, much of it during World War II. It is the third best-selling novel ever written, with over 150 million copies sold.
-    
-    Also known as:
-    * El Señor de los Anillos
-    * Der Herr der Ringe
-    * O Senhor dos Anéis
-    * Le Seigneur des Anneaux
-    * A Gyűrűk Ura
-    * Gredzenu pavēlnieks
-    * Härskarringen
-    * In de Ban van de Ring
-    * Gospodar prstenova
-    * Pán Prsteňov
-    * Pán prstenů
-    * Ringenes Herre 
-    * Il Signore degli Anelli
-    * Sõrmuste Isand
-    * Stăpânul inelelor
-    * Taru sormusten herrasta
-    * Władca Pierścieni
-    * Yüzüklerin Efendisi
-    * Властелинът на пръстените
-    * Ο άρχοντας των δαχτυλιδιών
-    * ბეჭდების მბრძანებელი
-    * 魔戒
-    * 指輪物語
-    * Gospodar prstanov
-    
-    Also published in <a href="http://www.goodreads.com/series/58085-the-lord-of-the-rings-seven-book-editions">seven volumes (six books plus the appendices)</a>.
+    * <a href="http://www.goodreads.com/series/49401-prelude-to-dune">Prelude to Dune</a>
+    * <a href="http://www.goodreads.com/series/45567-legends-of-dune">Legends of Dune</a>
 ]]>
 </description>
 <note>
 <![CDATA[
-    The list of translations is useful for series searches (see http://www.goodreads.com/series for the link)
 ]]>
 </note>
-<series_works_count>6</series_works_count>
-<primary_work_count>3</primary_work_count>
+<series_works_count>21</series_works_count>
+<primary_work_count>6</primary_work_count>
 <numbered>true</numbered>
 </series>
 
 </series_work>
 <series_work>
-<id>241857</id>
-<user_position></user_position>
+<id>514666</id>
+<user_position>10</user_position>
 <series>
-<id>58083</id>
+<id>106170</id>
 <title>
 <![CDATA[
-    Middle-Earth Universe
+    Dune Universe
 ]]>
 </title>
 <description>
 <![CDATA[
-    Includes:
-    * <a href="http://www.goodreads.com/series/66175-the-lord-of-the-rings">The Lord of the Rings</a>
-    * <a href="http://www.goodreads.com/series/58079-unfinished-tales">Unfinished Tales</a>
-    * <a href="http://www.goodreads.com/series/45924-the-history-of-middle-earth">The History of Middle-earth</a>
 ]]>
 </description>
 <note>
 <![CDATA[
-    Listed in publication order. This is not a series, it is a setting.
 ]]>
 </note>
-<series_works_count>45</series_works_count>
-<primary_work_count>24</primary_work_count>
-<numbered>false</numbered>
+<series_works_count>24</series_works_count>
+<primary_work_count>21</primary_work_count>
+<numbered>true</numbered>
 </series>
 
 </series_work>
@@ -289,46 +257,62 @@
   </series_works>
   <similar_books>
           <book>
-<id>104089</id>
-<title>Tigana</title>
-<isbn>0451457765</isbn>
-<isbn13>9780451457769</isbn13>
+<id>99218</id>
+<title><![CDATA[The Machine Crusade (Legends of Dune, #2)]]></title>
+<isbn>076534078X</isbn>
+<isbn13>9780765340788</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.12</average_rating>
-<ratings_count>18956</ratings_count>
+<average_rating>3.67</average_rating>
+<ratings_count>6950</ratings_count>
 <authors>
   <author>
-    <id>60177</id>
-    <name>Guy Gavriel Kay</name>
+    <id>56</id>
+    <name>Brian Herbert</name>
   </author>
 </authors>
 </book>
           <book>
-<id>227454</id>
-<title><![CDATA[The Legacy (Forgotten Realms: Legacy of the Drow, #1; Legend of Drizzt, #7)]]></title>
-<isbn>0786939842</isbn>
-<isbn13>9780786939848</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.18</average_rating>
-<ratings_count>12307</ratings_count>
+<id>76740</id>
+<title>The Demolished Man</title>
+<isbn>1857988221</isbn>
+<isbn13>9781857988222</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1360171879s/76740.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1360171879m/76740.jpg]]></image_url>
+<average_rating>4.02</average_rating>
+<ratings_count>12712</ratings_count>
 <authors>
   <author>
-    <id>1023510</id>
-    <name>R.A. Salvatore</name>
+    <id>10992</id>
+    <name>Alfred Bester</name>
   </author>
 </authors>
 </book>
           <book>
-<id>68041</id>
-<title>The Earthsea Quartet</title>
-<isbn>0140154272</isbn>
-<isbn13>9780140154276</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1330196610s/68041.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1330196610m/68041.jpg]]></image_url>
-<average_rating>4.22</average_rating>
-<ratings_count>2449</ratings_count>
+<id>41818</id>
+<title>Robot Dreams (Robot, #0.4)</title>
+<isbn>0441011837</isbn>
+<isbn13>9780441011834</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206791s/41818.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309206791m/41818.jpg]]></image_url>
+<average_rating>4.08</average_rating>
+<ratings_count>4488</ratings_count>
+<authors>
+  <author>
+    <id>16667</id>
+    <name>Isaac Asimov</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>276767</id>
+<title><![CDATA[The Word for World is Forest (Hainish Cycle #6)]]></title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1283091038s/276767.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1283091038m/276767.jpg]]></image_url>
+<average_rating>3.85</average_rating>
+<ratings_count>3518</ratings_count>
 <authors>
   <author>
     <id>874602</id>
@@ -337,14 +321,174 @@
 </authors>
 </book>
           <book>
-<id>22875</id>
-<title><![CDATA[The One Tree (The Second Chronicles of Thomas Covenant, #2)]]></title>
-<isbn>0345418476</isbn>
-<isbn13>9780345418470</isbn13>
+<id>77566</id>
+<title><![CDATA[Hyperion (Hyperion Cantos, #1)]]></title>
+<isbn>0553283685</isbn>
+<isbn13>9780553283686</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332885131s/77566.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332885131m/77566.jpg]]></image_url>
+<average_rating>4.15</average_rating>
+<ratings_count>62569</ratings_count>
+<authors>
+  <author>
+    <id>2687</id>
+    <name>Dan Simmons</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>89184</id>
+<title><![CDATA[Absolution Gap (Revelation Space, #3)]]></title>
+<isbn>0441012914</isbn>
+<isbn13>9780441012916</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309210984s/89184.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1309210984m/89184.jpg]]></image_url>
+<average_rating>3.96</average_rating>
+<ratings_count>6170</ratings_count>
+<authors>
+  <author>
+    <id>51204</id>
+    <name>Alastair Reynolds</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>88071</id>
+<title><![CDATA[The Last Colony (Old Man's War, #3)]]></title>
+<isbn>0765316978</isbn>
+<isbn13>9780765316974</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.98</average_rating>
+<ratings_count>13176</ratings_count>
+<authors>
+  <author>
+    <id>4763</id>
+    <name>John Scalzi</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>189147</id>
+<title><![CDATA[To Your Scattered Bodies Go (Riverworld, #1)]]></title>
+<isbn>0345419677</isbn>
+<isbn13>9780345419675</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327657439s/189147.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327657439m/189147.jpg]]></image_url>
 <average_rating>3.93</average_rating>
-<ratings_count>8655</ratings_count>
+<ratings_count>14882</ratings_count>
+<authors>
+  <author>
+    <id>10089</id>
+    <name>Philip José Farmer</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>229021</id>
+<title>Rite of Passage</title>
+<isbn>0978907825</isbn>
+<isbn13>9780978907822</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334659898s/229021.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334659898m/229021.jpg]]></image_url>
+<average_rating>3.92</average_rating>
+<ratings_count>1369</ratings_count>
+<authors>
+  <author>
+    <id>26068</id>
+    <name>Alexei Panshin</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>61179</id>
+<title>Ringworld (Ringworld, #1)</title>
+<isbn>0575077026</isbn>
+<isbn13>9780575077027</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>45008</ratings_count>
+<authors>
+  <author>
+    <id>12534</id>
+    <name>Larry Niven</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>77507</id>
+<title>Red Mars (Mars Trilogy, #1)</title>
+<isbn>0553560735</isbn>
+<isbn13>9780553560732</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.80</average_rating>
+<ratings_count>25403</ratings_count>
+<authors>
+  <author>
+    <id>1858</id>
+    <name>Kim Stanley Robinson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>112537</id>
+<title><![CDATA[Rendezvous with Rama (Rama, #1)]]></title>
+<isbn>1857231589</isbn>
+<isbn13>9781857231588</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1357153807s/112537.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1357153807m/112537.jpg]]></image_url>
+<average_rating>3.99</average_rating>
+<ratings_count>52496</ratings_count>
+<authors>
+  <author>
+    <id>7779</id>
+    <name>Arthur C. Clarke</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>68483</id>
+<title><![CDATA[The Vor Game (Vorkosigan Saga, #6)]]></title>
+<isbn>0671720147</isbn>
+<isbn13>9780671720148</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322571824s/68483.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322571824m/68483.jpg]]></image_url>
+<average_rating>4.25</average_rating>
+<ratings_count>8585</ratings_count>
+<authors>
+  <author>
+    <id>16094</id>
+    <name>Lois McMaster Bujold</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>7082</id>
+<title><![CDATA[Do Androids Dream of Electric Sheep?]]></title>
+<isbn>0345404475</isbn>
+<isbn13>9780345404473</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327865673s/7082.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327865673m/7082.jpg]]></image_url>
+<average_rating>4.05</average_rating>
+<ratings_count>123885</ratings_count>
+<authors>
+  <author>
+    <id>4764</id>
+    <name>Philip K. Dick</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>22871</id>
+<title><![CDATA[The Gap Into Madness: Chaos and Order (Gap, #4)]]></title>
+<isbn>0553071793</isbn>
+<isbn13>9780553071795</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383397098s/22871.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1383397098m/22871.jpg]]></image_url>
+<average_rating>4.09</average_rating>
+<ratings_count>2759</ratings_count>
 <authors>
   <author>
     <id>12980</id>
@@ -353,210 +497,18 @@
 </authors>
 </book>
           <book>
-<id>259836</id>
-<title><![CDATA[Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)]]></title>
-<isbn>0786915749</isbn>
-<isbn13>9780786915743</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1390668127s/259836.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1390668127m/259836.jpg]]></image_url>
-<average_rating>4.04</average_rating>
-<ratings_count>39921</ratings_count>
+<id>45244</id>
+<title><![CDATA[Judas Unchained (Commonwealth Saga, #2)]]></title>
+<isbn>0345461665</isbn>
+<isbn13>9780345461667</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316501189s/45244.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316501189m/45244.jpg]]></image_url>
+<average_rating>4.28</average_rating>
+<ratings_count>11365</ratings_count>
 <authors>
   <author>
-    <id>869</id>
-    <name>Margaret Weis</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>645023</id>
-<title><![CDATA[Castle of Wizardry (The Belgariad, #4)]]></title>
-<isbn>0345335708</isbn>
-<isbn13>9780345335708</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.14</average_rating>
-<ratings_count>35445</ratings_count>
-<authors>
-  <author>
-    <id>8732</id>
-    <name>David Eddings</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>185200</id>
-<title><![CDATA[The Magic Engineer (The Saga of Recluce, #3)]]></title>
-<isbn>0812534050</isbn>
-<isbn13>9780812534054</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.95</average_rating>
-<ratings_count>5358</ratings_count>
-<authors>
-  <author>
-    <id>1301649</id>
-    <name>L.E. Modesitt Jr.</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>34499</id>
-<title>Sourcery (Discworld, #5)</title>
-<isbn>0061020672</isbn>
-<isbn13>9780061020674</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.81</average_rating>
-<ratings_count>29559</ratings_count>
-<authors>
-  <author>
-    <id>1654</id>
-    <name>Terry Pratchett</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>92138</id>
-<title>The Book of D&apos;ni (Myst, #3)</title>
-<isbn>078688942X</isbn>
-<isbn13>9780786889426</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.93</average_rating>
-<ratings_count>1641</ratings_count>
-<authors>
-  <author>
-    <id>34408</id>
-    <name>Rand Miller</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>13337716</id>
-<title><![CDATA[A Dance with Dragons: After the Feast (A Song of Ice and Fire #5, Part 2 of 2)]]></title>
-<isbn>0007466072</isbn>
-<isbn13>9780007466078</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327932256s/13337716.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327932256m/13337716.jpg]]></image_url>
-<average_rating>4.37</average_rating>
-<ratings_count>3909</ratings_count>
-<authors>
-  <author>
-    <id>346732</id>
-    <name>George R.R. Martin</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>18887</id>
-<title><![CDATA[The Prisoner in the Oak (The Mists of Avalon, #4)]]></title>
-<isbn>1419324721</isbn>
-<isbn13>9781419324727</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1313592586s/18887.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1313592586m/18887.jpg]]></image_url>
-<average_rating>4.13</average_rating>
-<ratings_count>1424</ratings_count>
-<authors>
-  <author>
-    <id>4841825</id>
-    <name>Marion Zimmer Bradley</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>1438096</id>
-<title>Firesong (Wind On Fire, #3)</title>
-<isbn>0007179391</isbn>
-<isbn13>9780007179398</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.00</average_rating>
-<ratings_count>4592</ratings_count>
-<authors>
-  <author>
-    <id>46130</id>
-    <name>William Nicholson</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>127586</id>
-<title>The White Dragon (Pern, #3)</title>
-<isbn>0345341678</isbn>
-<isbn13>9780345341679</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1307994871s/127586.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1307994871m/127586.jpg]]></image_url>
-<average_rating>4.14</average_rating>
-<ratings_count>23115</ratings_count>
-<authors>
-  <author>
-    <id>26</id>
-    <name>Anne McCaffrey</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>186669</id>
-<title><![CDATA[Brilliance of the Moon (Tales of the Otori, #3)]]></title>
-<isbn>1594480869</isbn>
-<isbn13>9781594480867</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.01</average_rating>
-<ratings_count>8365</ratings_count>
-<authors>
-  <author>
-    <id>43784</id>
-    <name>Lian Hearn</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>34897</id>
-<title><![CDATA[The Dragon Reborn (Wheel of Time, #3)]]></title>
-<isbn>0765305119</isbn>
-<isbn13>9780765305114</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.19</average_rating>
-<ratings_count>100936</ratings_count>
-<authors>
-  <author>
-    <id>6252</id>
-    <name>Robert Jordan</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>68455</id>
-<title><![CDATA[Wieża jaskółki (Saga o Wiedźminie, #6)]]></title>
-<isbn>8370541240</isbn>
-<isbn13>9788370541248</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.34</average_rating>
-<ratings_count>4128</ratings_count>
-<authors>
-  <author>
-    <id>38569</id>
-    <name>Andrzej Sapkowski</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>13813</id>
-<title><![CDATA[A Darkness At Sethanon (The Riftwar Saga, #4)]]></title>
-<isbn>0586066888</isbn>
-<isbn13>9780586066881</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.15</average_rating>
-<ratings_count>29778</ratings_count>
-<authors>
-  <author>
-    <id>8588</id>
-    <name>Raymond E. Feist</name>
+    <id>25375</id>
+    <name>Peter F. Hamilton</name>
   </author>
 </authors>
 </book>
