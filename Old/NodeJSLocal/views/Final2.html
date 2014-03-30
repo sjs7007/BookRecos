@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BookInfo</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Bootstrap -->
+        <link type="text/css" rel="stylesheet" href="http://bootswatch.com/cyborg/bootstrap.min.css">
+    </head>
+    <body>
+        
+        <script src="http://code.jquery.com/jquery.js"></script>
+        <script src="//raw.github.com/sjs7007/CodeRunner/master/public/js/bootstrap.min.js"></script>
+
+        <script>
+            if (window.XMLHttpRequest)
+            {// code for IE7+, Firefox, Chrome, Opera, Safari
+                xmlhttp=new XMLHttpRequest();            }
+            else
+            {// code for IE6, IE5
+                xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+
+            xmlhttp.onload = function() 
+            {
+                var xmlDoc = new DOMParser().parseFromString(xmlhttp.responseText,'text/xml');
+
+                console.log(xmlDoc);
+
+                document.write('<table class="table table-bordered table-striped">');
+                var x=xmlDoc.getElementsByTagName("GoodreadsResponse");
+                for (i=0;i<x.length;i++)
+                { 
+                    document.write("<tr><td>");
+                    document.write("Title");
+                    document.write("</td><td>");
+                    document.write(x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
+                    document.write("</td></tr>");
+
+                
+                    document.write("<tr><td>");
+                    document.write("Cover");  
+                    document.write("</td><td>");
+                    var url= '<img src='+x[i].getElementsByTagName("image_url")[0].childNodes[0].nodeValue+">";
+                    document.write(url);
+                    document.write("</td></tr>");
+
+
+                    document.write("<tr><td>");
+                    document.write("Author");
+                    document.write("</td><td>");
+                    document.write(x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue);
+                    document.write("</td></tr>"); 
+
+                    document.write("<tr><td>");
+                    document.write("Description");
+                    document.write("</td><td>");
+                    document.write(x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue);
+                    document.write("</td></tr>");
+
+                    document.write("<tr><td>");
+                    document.write("Average Rating");
+                    document.write("</td><td>");
+                    document.write(x[i].getElementsByTagName("average_rating")[0].childNodes[0].nodeValue);
+                    document.write("</td></tr>");
+
+              
+                }
+                
+                document.write("</table>");
+
+            }
+            xmlhttp.open("GET","Output.xml",false);
+            xmlhttp.send();
+        </script>
+    </body>
+</html>
+
