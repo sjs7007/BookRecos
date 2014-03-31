@@ -3,6 +3,7 @@ var app = express();
 var exec = require("child_process").exec;
 
 app.use(express.bodyParser());
+app.use(express.static(__dirname + '/views')); //so that images inside views folder are included
 
 app.get('/hello.txt', function(req, res){
 	res.send('Hello World');
@@ -28,6 +29,15 @@ app.post('/isbnResult', function (req, res)
     	res.render('Final2.html');
 	});
 });
+
+app.get('/v2', function(req, res){
+	res.render('test2.html');
+});
+
+app.get('/v3', function(req, res){
+	res.render('test3.html');
+});
+
 
 
 var server = app.listen(process.env.PORT||3000, function() {

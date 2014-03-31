@@ -6,57 +6,57 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>631246</id>
-  <title><![CDATA[The Wonder That Was India: A Survey of the History and Culture of the Indian Sub-Continent before the coming of the Muslims  Volume - 1]]></title>
-  <isbn><![CDATA[033043909X]]></isbn>
-  <isbn13><![CDATA[9780330439091]]></isbn13>
+  <id>18078355</id>
+  <title>The Kite Runner</title>
+  <isbn><![CDATA[1408803720]]></isbn>
+  <isbn13><![CDATA[9781408803721]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
-  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
-  <publication_year></publication_year>
-  <publication_month></publication_month>
-  <publication_day></publication_day>
-  <publisher>Ingram</publisher>
-  <language_code></language_code>
-  <is_ebook>false</is_ebook>
-  <description></description>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1371404419m/18078355.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1371404419s/18078355.jpg</small_image_url>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <publication_day>24</publication_day>
+  <publisher>Bloomsbury</publisher>
+  <language_code>eng</language_code>
+  <is_ebook>true</is_ebook>
+  <description><![CDATA[Afghanistan, 1975: Twelve-year-old Amir is desperate to win the local kite-fighting tournament and his loyal friend Hassan promises to help him. But neither of the boys can foresee what will happen to Hassan that afternoon, an event that is to shatter their lives. After the Russians invade and the family is forced to flee to America, Amir realises that  one day he must return to Afghanistan under Taliban rule to find the one thing that his new world cannot grant him: redemption.]]></description>
   <work>
-  <best_book_id type="integer">631246</best_book_id>
-  <books_count type="integer">8</books_count>
-  <default_chaptering_book_id type="integer" nil="true"/>
+  <best_book_id type="integer">77203</best_book_id>
+  <books_count type="integer">84</books_count>
+  <default_chaptering_book_id type="integer">437129</default_chaptering_book_id>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer" nil="true"/>
-  <id type="integer">617563</id>
+  <desc_user_id type="integer">6757421</desc_user_id>
+  <id type="integer">3295919</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
   <original_publication_day type="integer" nil="true"/>
   <original_publication_month type="integer" nil="true"/>
-  <original_publication_year type="integer">1954</original_publication_year>
-  <original_title>The Wonder That Was India: A Survey of the History and Culture of the Indian Sub-Continent before the coming of the Muslims</original_title>
-  <rating_dist>3:26|5:33|4:44|2:3|total:106</rating_dist>
-  <ratings_count type="integer">406</ratings_count>
-  <ratings_sum type="integer">1639</ratings_sum>
-  <reviews_count type="integer">1748</reviews_count>
-  <text_reviews_count type="integer">21</text_reviews_count>
+  <original_publication_year type="integer">2002</original_publication_year>
+  <original_title>The Kite Runner </original_title>
+  <rating_dist>5:510416|4:373388|3:144097|1:22876|2:40077|total:1090854</rating_dist>
+  <ratings_count type="integer">1113797</ratings_count>
+  <ratings_sum type="integer">4678625</ratings_sum>
+  <reviews_count type="integer">1495053</reviews_count>
+  <text_reviews_count type="integer">43750</text_reviews_count>
 </work>
-  <average_rating>4.04</average_rating>
-  <num_pages><![CDATA[688]]></num_pages>
-  <format><![CDATA[Paperback]]></format>
+  <average_rating>4.20</average_rating>
+  <num_pages><![CDATA[352]]></num_pages>
+  <format><![CDATA[ebook]]></format>
   <edition_information><![CDATA[]]></edition_information>
-  <ratings_count><![CDATA[380]]></ratings_count>
-  <text_reviews_count><![CDATA[19]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/631246.The_Wonder_That_Was_India]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/631246.The_Wonder_That_Was_India]]></link>
+  <ratings_count><![CDATA[8]]></ratings_count>
+  <text_reviews_count><![CDATA[0]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/18078355-the-kite-runner]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/18078355-the-kite-runner]]></link>
   <authors>
   <author>
-    <id>902631</id>
-    <name>Arthur Llewellyn  Basham</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1369567531p5/902631.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1369567531p2/902631.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/902631.Arthur_Llewellyn_Basham]]></link>
-    <average_rating>3.99</average_rating>
-    <ratings_count>460</ratings_count>
-    <text_reviews_count>25</text_reviews_count>
+    <id>569</id>
+    <name>Khaled Hosseini</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p5/569.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p2/569.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
+    <average_rating>4.22</average_rating>
+    <ratings_count>1701730</ratings_count>
+    <text_reviews_count>90788</text_reviews_count>
   </author>
 </authors>
 
@@ -98,26 +98,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/631246.The_Wonder_That_Was_India">The Wonder That Was India Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=033043909X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/18078355-the-kite-runner">The Kite Runner Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1408803720&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/631246.The_Wonder_That_Was_India?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/18078355-the-kite-runner?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="to-read" count="1006"/>
-      <shelf name="currently-reading" count="83"/>
-      <shelf name="history" count="45"/>
-      <shelf name="india" count="30"/>
-      <shelf name="non-fiction" count="12"/>
-      <shelf name="indian-history" count="5"/>
-      <shelf name="default" count="4"/>
-      <shelf name="asia" count="3"/>
-      <shelf name="historical" count="3"/>
-      <shelf name="history-india" count="3"/>
+      <shelf name="fiction" count="7700"/>
+      <shelf name="to-read" count="6915"/>
+      <shelf name="favorites" count="6865"/>
+      <shelf name="historical-fiction" count="2074"/>
+      <shelf name="book-club" count="1148"/>
+      <shelf name="contemporary" count="748"/>
+      <shelf name="currently-reading" count="610"/>
+      <shelf name="novels" count="581"/>
+      <shelf name="favourites" count="572"/>
+      <shelf name="literature" count="519"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -200,292 +200,298 @@
   <series_works>
     
   </series_works>
+      <public_document>
+        <id>33803</id>
+        <document_url>
+          http://photo.goodreads.com/documents/1360693678books/77203.epub
+        </document_url>
+      </public_document>
   <similar_books>
           <book>
-<id>9571715</id>
-<title>Makers of Modern India</title>
-<isbn>0674052463</isbn>
-<isbn13>9780674052468</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1288027076s/9571715.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1288027076m/9571715.jpg]]></image_url>
-<average_rating>3.75</average_rating>
-<ratings_count>287</ratings_count>
-<authors>
-  <author>
-    <id>67629</id>
-    <name>Ramachandra Guha</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>96255</id>
-<title><![CDATA[The Autobiography of an Unknown Indian]]></title>
-<isbn>094032282X</isbn>
-<isbn13>9780940322820</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320554775s/96255.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320554775m/96255.jpg]]></image_url>
-<average_rating>3.73</average_rating>
-<ratings_count>173</ratings_count>
-<authors>
-  <author>
-    <id>55346</id>
-    <name>Nirad C. Chaudhuri</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>276113</id>
-<title>A History of India: Volume 1</title>
-<isbn>0140138358</isbn>
-<isbn13>9780140138351</isbn13>
+<id>211264</id>
+<title>Fludd</title>
+<isbn>0007172893</isbn>
+<isbn13>9780007172894</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.83</average_rating>
-<ratings_count>264</ratings_count>
+<average_rating>3.53</average_rating>
+<ratings_count>822</ratings_count>
 <authors>
   <author>
-    <id>160872</id>
-    <name>Romila Thapar</name>
+    <id>58851</id>
+    <name>Hilary Mantel</name>
   </author>
 </authors>
 </book>
           <book>
-<id>174501</id>
-<title>India: A History</title>
-<isbn>0802137970</isbn>
-<isbn13>9780802137975</isbn13>
+<id>5166</id>
+<title>Midwives</title>
+<isbn>0375706771</isbn>
+<isbn13>9780375706776</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.86</average_rating>
-<ratings_count>776</ratings_count>
+<average_rating>3.92</average_rating>
+<ratings_count>91829</ratings_count>
 <authors>
   <author>
-    <id>101857</id>
-    <name>John Keay</name>
+    <id>3509</id>
+    <name>Chris Bohjalian</name>
   </author>
 </authors>
 </book>
           <book>
-<id>694024</id>
-<title><![CDATA[The Mughal Throne: The Saga of India's Great Emperors]]></title>
-<isbn>0753817586</isbn>
-<isbn13>9780753817582</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1328819365s/694024.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1328819365m/694024.jpg]]></image_url>
-<average_rating>3.87</average_rating>
-<ratings_count>124</ratings_count>
+<id>1103</id>
+<title><![CDATA[Snow Flower and the Secret Fan]]></title>
+<isbn>0812968069</isbn>
+<isbn13>9780812968064</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508s/1103.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508m/1103.jpg]]></image_url>
+<average_rating>4.02</average_rating>
+<ratings_count>191063</ratings_count>
 <authors>
   <author>
-    <id>89810</id>
-    <name>Abraham Eraly</name>
+    <id>713</id>
+    <name>Lisa See</name>
   </author>
 </authors>
 </book>
           <book>
-<id>124429</id>
-<title><![CDATA[The Last Mughal: The Fall of a Dynasty: Delhi, 1857]]></title>
-<isbn>1400043107</isbn>
-<isbn13>9781400043101</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320556054s/124429.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320556054m/124429.jpg]]></image_url>
-<average_rating>4.05</average_rating>
-<ratings_count>2061</ratings_count>
+<id>5826</id>
+<title>Bel Canto</title>
+<isbn>0060838728</isbn>
+<isbn13>9780060838720</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1352997328s/5826.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1352997328m/5826.jpg]]></image_url>
+<average_rating>3.90</average_rating>
+<ratings_count>130782</ratings_count>
 <authors>
   <author>
-    <id>60159</id>
-    <name>William Dalrymple</name>
+    <id>7136914</id>
+    <name>Ann Patchett</name>
   </author>
 </authors>
 </book>
           <book>
-<id>10310</id>
-<title><![CDATA[The Argumentative Indian: Writings on Indian History, Culture and Identity]]></title>
-<isbn>031242602X</isbn>
-<isbn13>9780312426026</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.74</average_rating>
-<ratings_count>2813</ratings_count>
-<authors>
-  <author>
-    <id>82531</id>
-    <name>Amartya Sen</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>721931</id>
-<title><![CDATA[The Great Partition: The Making of India and Pakistan]]></title>
-<isbn>0300120788</isbn>
-<isbn13>9780300120783</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1328827936s/721931.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1328827936m/721931.jpg]]></image_url>
-<average_rating>3.66</average_rating>
-<ratings_count>209</ratings_count>
-<authors>
-  <author>
-    <id>384153</id>
-    <name>Yasmin Khan</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>154126</id>
-<title>The Discovery of India</title>
-<isbn>0143031031</isbn>
-<isbn13>9780143031031</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1358746649s/154126.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1358746649m/154126.jpg]]></image_url>
-<average_rating>3.96</average_rating>
-<ratings_count>2145</ratings_count>
-<authors>
-  <author>
-    <id>89095</id>
-    <name>Jawaharlal Nehru</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>74121</id>
-<title><![CDATA[In Spite of the Gods: The Strange Rise of Modern India]]></title>
-<isbn>0385514743</isbn>
-<isbn13>9780385514743</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.80</average_rating>
-<ratings_count>1415</ratings_count>
-<authors>
-  <author>
-    <id>42008</id>
-    <name>Edward Luce</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>55121</id>
-<title><![CDATA[Taj Mahal: Passion and Genius at the Heart of the Moghul Empire]]></title>
-<isbn>0802715117</isbn>
-<isbn13>9780802715111</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316729024s/55121.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1316729024m/55121.jpg]]></image_url>
-<average_rating>3.73</average_rating>
-<ratings_count>141</ratings_count>
-<authors>
-  <author>
-    <id>31107</id>
-    <name>Diana Preston</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>547573</id>
-<title><![CDATA[Everybody Loves a Good Drought: Stories from India's Poorest Districts]]></title>
-<isbn>0140259848</isbn>
-<isbn13>9780140259841</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1377352930s/547573.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1377352930m/547573.jpg]]></image_url>
-<average_rating>4.25</average_rating>
-<ratings_count>507</ratings_count>
-<authors>
-  <author>
-    <id>458276</id>
-    <name>P. Sainath</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>5501276</id>
-<title><![CDATA[Imagining India: The Idea of a Renewed Nation]]></title>
-<isbn>1594202044</isbn>
-<isbn13>9781594202049</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.75</average_rating>
-<ratings_count>785</ratings_count>
-<authors>
-  <author>
-    <id>2384436</id>
-    <name>Nandan Nilekani</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>296201</id>
-<title><![CDATA[India Unbound: The Social and Economic Revolution from Independence to the Global Information Age]]></title>
-<isbn>0385720742</isbn>
-<isbn13>9780385720748</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320509250s/296201.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320509250m/296201.jpg]]></image_url>
-<average_rating>4.01</average_rating>
-<ratings_count>1861</ratings_count>
-<authors>
-  <author>
-    <id>170980</id>
-    <name>Gurcharan Das</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>596633</id>
-<title><![CDATA[India's Struggle for Independence]]></title>
-<isbn>0140107819</isbn>
-<isbn13>9780140107814</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1355965262s/596633.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1355965262m/596633.jpg]]></image_url>
-<average_rating>3.98</average_rating>
-<ratings_count>306</ratings_count>
-<authors>
-  <author>
-    <id>7134330</id>
-    <name>Bipan Chandra</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>204123</id>
-<title>Freedom at Midnight</title>
-<isbn>8125904808</isbn>
-<isbn13>9788125904809</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1365170106s/204123.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1365170106m/204123.jpg]]></image_url>
-<average_rating>4.29</average_rating>
-<ratings_count>2830</ratings_count>
-<authors>
-  <author>
-    <id>35332</id>
-    <name>Larry Collins</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>30845</id>
-<title><![CDATA[India: From Midnight to the Millennium and Beyond]]></title>
-<isbn>1559708034</isbn>
-<isbn13>9781559708036</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.67</average_rating>
-<ratings_count>580</ratings_count>
-<authors>
-  <author>
-    <id>17287</id>
-    <name>Shashi Tharoor</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>1769362</id>
-<title>The Arthashastra</title>
-<isbn>0140446036</isbn>
-<isbn13>9780140446036</isbn13>
+<id>43015</id>
+<title><![CDATA[A Long Way Gone: Memoirs of a Boy Soldier]]></title>
+<isbn>0374105235</isbn>
+<isbn13>9780374105235</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
 <average_rating>4.12</average_rating>
-<ratings_count>143</ratings_count>
+<ratings_count>64112</ratings_count>
 <authors>
   <author>
-    <id>868529</id>
-    <name>Kautilya</name>
+    <id>24189</id>
+    <name>Ishmael Beah</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>7039</id>
+<title><![CDATA[Tears of the Giraffe (No. 1 Ladies' Detective Agency, #2)]]></title>
+<isbn>0349116652</isbn>
+<isbn13>9780349116655</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.94</average_rating>
+<ratings_count>24759</ratings_count>
+<authors>
+  <author>
+    <id>4738</id>
+    <name>Alexander McCall Smith</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>8874743</id>
+<title>When God Was a Rabbit</title>
+<isbn>0755379284</isbn>
+<isbn13>9780755379286</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1311417203s/8874743.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1311417203m/8874743.jpg]]></image_url>
+<average_rating>3.64</average_rating>
+<ratings_count>13989</ratings_count>
+<authors>
+  <author>
+    <id>4197193</id>
+    <name>Sarah Winman</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>85301</id>
+<title>Unaccustomed Earth</title>
+<isbn>0676979343</isbn>
+<isbn13>9780676979343</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140s/85301.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140m/85301.jpg]]></image_url>
+<average_rating>4.10</average_rating>
+<ratings_count>42825</ratings_count>
+<authors>
+  <author>
+    <id>3670</id>
+    <name>Jhumpa Lahiri</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>14864</id>
+<title>Plain Truth</title>
+<isbn>0743275012</isbn>
+<isbn13>9780743275019</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>92123</ratings_count>
+<authors>
+  <author>
+    <id>7128</id>
+    <name>Jodi Picoult</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>3153910</id>
+<title>The Art of Racing in the Rain</title>
+<isbn>1554681723</isbn>
+<isbn13>9781554681723</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1377206302s/3153910.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1377206302m/3153910.jpg]]></image_url>
+<average_rating>4.14</average_rating>
+<ratings_count>198083</ratings_count>
+<authors>
+  <author>
+    <id>194531</id>
+    <name>Garth Stein</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>11713</id>
+<title>The English Patient</title>
+<isbn>0771068719</isbn>
+<isbn13>9780771068713</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320527907s/11713.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320527907m/11713.jpg]]></image_url>
+<average_rating>3.86</average_rating>
+<ratings_count>57458</ratings_count>
+<authors>
+  <author>
+    <id>4030</id>
+    <name>Michael Ondaatje</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>153496</id>
+<title>Leo Africanus</title>
+<isbn>1561310220</isbn>
+<isbn13>9781561310227</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.15</average_rating>
+<ratings_count>2295</ratings_count>
+<authors>
+  <author>
+    <id>36378</id>
+    <name>Amin Maalouf</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>5159</id>
+<title>Here on Earth </title>
+<isbn>0425169693</isbn>
+<isbn13>9780425169698</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.64</average_rating>
+<ratings_count>26601</ratings_count>
+<authors>
+  <author>
+    <id>3502</id>
+    <name>Alice Hoffman</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>78987</id>
+<title><![CDATA[The Prodigal Daughter (Kane & Abel, #2)]]></title>
+<isbn>0312997140</isbn>
+<isbn13>9780312997144</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.88</average_rating>
+<ratings_count>14984</ratings_count>
+<authors>
+  <author>
+    <id>4820</id>
+    <name>Jeffrey Archer</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>4473</id>
+<title>A Prayer for Owen Meany</title>
+<isbn>0552135399</isbn>
+<isbn13>9780552135399</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260470010s/4473.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260470010m/4473.jpg]]></image_url>
+<average_rating>4.22</average_rating>
+<ratings_count>154804</ratings_count>
+<authors>
+  <author>
+    <id>3075</id>
+    <name>John Irving</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>126005</id>
+<title>Hanna&apos;s Daughters</title>
+<isbn>0752849409</isbn>
+<isbn13>9780752849409</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.57</average_rating>
+<ratings_count>1826</ratings_count>
+<authors>
+  <author>
+    <id>72467</id>
+    <name>Marianne Fredriksson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>5211</id>
+<title>A Fine Balance</title>
+<isbn>140003065X</isbn>
+<isbn13>9781400030651</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>4.32</average_rating>
+<ratings_count>65579</ratings_count>
+<authors>
+  <author>
+    <id>3539</id>
+    <name>Rohinton Mistry</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>92364</id>
+<title>Eye of the Needle</title>
+<isbn>006074815X</isbn>
+<isbn13>9780060748159</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327939511s/92364.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327939511m/92364.jpg]]></image_url>
+<average_rating>4.12</average_rating>
+<ratings_count>56961</ratings_count>
+<authors>
+  <author>
+    <id>3447</id>
+    <name>Ken Follett</name>
   </author>
 </authors>
 </book>
