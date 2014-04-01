@@ -1,0 +1,6 @@
+http://rogerdudler.github.io/git-guide/
+
+git fetch origin
+
+git reset --hard origin/master
+
