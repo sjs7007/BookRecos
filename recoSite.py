@@ -20,7 +20,7 @@ readDB(allUsers,'BookDB.csv')
 #print allUsers
 
 Booklists=['BookName','Asylum','Fire and blood','Twisted sisters','Moth and Spark','Dangerous Illusions','The Black-Eyed Blonde','The ghost runner','Dead silent','Before we met','I forgot to remember','Sixth extinction','Wild Things','Alienated','Annhilation','Flight of the silvers','Influx','Tuesdays with Morrie','The alchemist','The fountainhead','Jonathan Livingston Seagull','Mahashweta','Illusions','One','The sound of letting go','Sherlock Holmes and the Vampires of London']
-ISBN=['ISBN','1599907844','545537460','451239652','670015709','1940521645','805098143','1620403404','1408327562','1620402750','1451685815','805092994','451415191','1423170288y','374104093','399164987','525953183','751529818','61122416','0451191153y','743278909','8126417463','99427869','330311735','0670015539y','1616552662']
+ISBN=['ISBN','1599907844','0825460131','0451239652','0670015709','1940521645','0805098143','1620403404','1408327562','1620402750','1451685815','0805092994','0451415191','1423170288','0374104093','0399164987','0525953183','0751529818','0061122416','0451191153','0743278909','8126417463','0099427869','0330311735','0670015539','1616552662']
 def equation1(x,y): #x=actual rating,y=true rating
 	x_y = x - y
 	partPersonality = math.exp(-(x_y)*(x_y)/12.5) # 12.5 = 2 sigma^2 where sigma = free parameter
