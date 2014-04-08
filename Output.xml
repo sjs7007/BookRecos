@@ -6,57 +6,57 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>18078355</id>
-  <title>The Kite Runner</title>
-  <isbn><![CDATA[1408803720]]></isbn>
-  <isbn13><![CDATA[9781408803721]]></isbn13>
+  <id>17978224</id>
+  <title>The Ghost Runner (Makana, #3)</title>
+  <isbn><![CDATA[1620403404]]></isbn>
+  <isbn13><![CDATA[9781620403402]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1371404419m/18078355.jpg</image_url>
-  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1371404419s/18078355.jpg</small_image_url>
-  <publication_year>2009</publication_year>
+  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1376362134m/17978224.jpg</image_url>
+  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1376362134s/17978224.jpg</small_image_url>
+  <publication_year>2014</publication_year>
   <publication_month>2</publication_month>
-  <publication_day>24</publication_day>
-  <publisher>Bloomsbury</publisher>
-  <language_code>eng</language_code>
-  <is_ebook>true</is_ebook>
-  <description><![CDATA[Afghanistan, 1975: Twelve-year-old Amir is desperate to win the local kite-fighting tournament and his loyal friend Hassan promises to help him. But neither of the boys can foresee what will happen to Hassan that afternoon, an event that is to shatter their lives. After the Russians invade and the family is forced to flee to America, Amir realises that  one day he must return to Afghanistan under Taliban rule to find the one thing that his new world cannot grant him: redemption.]]></description>
+  <publication_day>4</publication_day>
+  <publisher>Bloomsbury USA</publisher>
+  <language_code></language_code>
+  <is_ebook>false</is_ebook>
+  <description><![CDATA[It is 2002 and as tanks roll into the West Bank and the reverberations of 9/11 echo across the globe, tensions are running high on Cairo’s streets.<br><br>Private Investigator Makana, in exile from his native Sudan and increasingly haunted by memories of his wife and daughter, is shaken out of his despondency when a routine surveillance job leads him to the horrific murder of a teenage girl. In a country where honor killings are commonplace and the authorities seem all too eager to turn a blind eye, Makana determines to track down the perpetrator. He finds unexpected assistance in the shape of Azza, a woman who seems to share Makana’s hunger for justice.<br><br>Seeking answers in the dead girl’s past he travels to Siwa, an oasis town on the edge of the great Sahara Desert, where the law seems disturbingly far away and old grievances simmer just below the surface. As violence follows him through the twisting, sandblown streets and an old enemy lurks in the shadows, Makana discovers that the truth can be as deadly and as changeable as the desert beneath his feet.]]></description>
   <work>
-  <best_book_id type="integer">77203</best_book_id>
-  <books_count type="integer">84</books_count>
-  <default_chaptering_book_id type="integer">437129</default_chaptering_book_id>
+  <best_book_id type="integer">17978224</best_book_id>
+  <books_count type="integer">3</books_count>
+  <default_chaptering_book_id type="integer" nil="true"/>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer">6757421</desc_user_id>
-  <id type="integer">3295919</id>
+  <desc_user_id type="integer">-41</desc_user_id>
+  <id type="integer">25206731</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
-  <original_publication_day type="integer" nil="true"/>
-  <original_publication_month type="integer" nil="true"/>
-  <original_publication_year type="integer">2002</original_publication_year>
-  <original_title>The Kite Runner </original_title>
-  <rating_dist>5:510416|4:373388|3:144097|1:22876|2:40077|total:1090854</rating_dist>
-  <ratings_count type="integer">1113797</ratings_count>
-  <ratings_sum type="integer">4678625</ratings_sum>
-  <reviews_count type="integer">1495053</reviews_count>
-  <text_reviews_count type="integer">43750</text_reviews_count>
+  <original_publication_day type="integer">4</original_publication_day>
+  <original_publication_month type="integer">2</original_publication_month>
+  <original_publication_year type="integer">2014</original_publication_year>
+  <original_title></original_title>
+  <rating_dist>4:16|5:4|3:6|total:26</rating_dist>
+  <ratings_count type="integer">20</ratings_count>
+  <ratings_sum type="integer">80</ratings_sum>
+  <reviews_count type="integer">583</reviews_count>
+  <text_reviews_count type="integer">8</text_reviews_count>
 </work>
-  <average_rating>4.20</average_rating>
-  <num_pages><![CDATA[352]]></num_pages>
-  <format><![CDATA[ebook]]></format>
+  <average_rating>4.00</average_rating>
+  <num_pages><![CDATA[432]]></num_pages>
+  <format><![CDATA[Hardcover]]></format>
   <edition_information><![CDATA[]]></edition_information>
-  <ratings_count><![CDATA[8]]></ratings_count>
-  <text_reviews_count><![CDATA[0]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/18078355-the-kite-runner]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/18078355-the-kite-runner]]></link>
+  <ratings_count><![CDATA[18]]></ratings_count>
+  <text_reviews_count><![CDATA[8]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/17978224-the-ghost-runner]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/17978224-the-ghost-runner]]></link>
   <authors>
   <author>
-    <id>569</id>
-    <name>Khaled Hosseini</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p5/569.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1359753468p2/569.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/569.Khaled_Hosseini]]></link>
-    <average_rating>4.22</average_rating>
-    <ratings_count>1701730</ratings_count>
-    <text_reviews_count>90788</text_reviews_count>
+    <id>5022895</id>
+    <name>Parker Bilal</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1391282914p5/5022895.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1391282914p2/5022895.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/5022895.Parker_Bilal]]></link>
+    <average_rating>3.67</average_rating>
+    <ratings_count>269</ratings_count>
+    <text_reviews_count>97</text_reviews_count>
   </author>
 </authors>
 
@@ -98,26 +98,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/18078355-the-kite-runner">The Kite Runner Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1408803720&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/17978224-the-ghost-runner">The Ghost Runner Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1620403404&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/18078355-the-kite-runner?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/17978224-the-ghost-runner?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="fiction" count="7700"/>
-      <shelf name="to-read" count="6915"/>
-      <shelf name="favorites" count="6865"/>
-      <shelf name="historical-fiction" count="2074"/>
-      <shelf name="book-club" count="1148"/>
-      <shelf name="contemporary" count="748"/>
-      <shelf name="currently-reading" count="610"/>
-      <shelf name="novels" count="581"/>
-      <shelf name="favourites" count="572"/>
-      <shelf name="literature" count="519"/>
+      <shelf name="to-read" count="673"/>
+      <shelf name="mystery" count="6"/>
+      <shelf name="first-reads" count="3"/>
+      <shelf name="multicultural" count="1"/>
+      <shelf name="currently-reading" count="1"/>
+      <shelf name="new-recently-added" count="1"/>
+      <shelf name="adult-suspense" count="1"/>
+      <shelf name="adult-police-fic" count="1"/>
+      <shelf name="adult-lit-thrillers" count="1"/>
+      <shelf name="not-interested" count="1"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -198,300 +198,319 @@
 
   </book_links>
   <series_works>
-    
+    <series_work>
+<id>533039</id>
+<user_position>3</user_position>
+<series>
+<id>96581</id>
+<title>
+<![CDATA[
+    Makana
+]]>
+</title>
+<description>
+<![CDATA[
+    Makana, a political refugee and former Sudanese police inspector, now a low-rent private investigator, in Cairo, Egypt:
+]]>
+</description>
+<note>
+<![CDATA[
+]]>
+</note>
+<series_works_count>3</series_works_count>
+<primary_work_count>3</primary_work_count>
+<numbered>true</numbered>
+</series>
+
+</series_work>
+
   </series_works>
-      <public_document>
-        <id>33803</id>
-        <document_url>
-          http://photo.goodreads.com/documents/1360693678books/77203.epub
-        </document_url>
-      </public_document>
   <similar_books>
           <book>
-<id>211264</id>
-<title>Fludd</title>
-<isbn>0007172893</isbn>
-<isbn13>9780007172894</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.53</average_rating>
-<ratings_count>822</ratings_count>
+<id>17934372</id>
+<title><![CDATA[Destroyer Angel (Anna Pigeon, #17)]]></title>
+<isbn>0312614586</isbn>
+<isbn13>9780312614584</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1389414782s/17934372.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1389414782m/17934372.jpg]]></image_url>
+<average_rating>3.93</average_rating>
+<ratings_count>76</ratings_count>
 <authors>
   <author>
-    <id>58851</id>
-    <name>Hilary Mantel</name>
+    <id>43613</id>
+    <name>Nevada Barr</name>
   </author>
 </authors>
 </book>
           <book>
-<id>5166</id>
-<title>Midwives</title>
-<isbn>0375706771</isbn>
-<isbn13>9780375706776</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.92</average_rating>
-<ratings_count>91829</ratings_count>
+<id>16045222</id>
+<title><![CDATA[Massacre Pond (Mike Bowditch, #4)]]></title>
+<isbn>1250033934</isbn>
+<isbn13>9781250033932</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356403724s/16045222.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356403724m/16045222.jpg]]></image_url>
+<average_rating>3.95</average_rating>
+<ratings_count>319</ratings_count>
 <authors>
   <author>
-    <id>3509</id>
-    <name>Chris Bohjalian</name>
+    <id>3090113</id>
+    <name>Paul Doiron</name>
   </author>
 </authors>
 </book>
           <book>
-<id>1103</id>
-<title><![CDATA[Snow Flower and the Secret Fan]]></title>
-<isbn>0812968069</isbn>
-<isbn13>9780812968064</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508s/1103.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327880508m/1103.jpg]]></image_url>
+<id>16219950</id>
+<title><![CDATA[Onion Street: A Moe Prager Mystery]]></title>
+<isbn>1440539464</isbn>
+<isbn13>9781440539466</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362344885s/16219950.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362344885m/16219950.jpg]]></image_url>
+<average_rating>4.04</average_rating>
+<ratings_count>81</ratings_count>
+<authors>
+  <author>
+    <id>138518</id>
+    <name>Reed Farrel Coleman</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18079517</id>
+<title><![CDATA[Kill Fee (Stevens & Windermere, #3)]]></title>
+<isbn>0399165525</isbn>
+<isbn13>9780399165528</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372040788s/18079517.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372040788m/18079517.jpg]]></image_url>
+<average_rating>3.71</average_rating>
+<ratings_count>49</ratings_count>
+<authors>
+  <author>
+    <id>4999197</id>
+    <name>Owen Laukkanen</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17239895</id>
+<title><![CDATA[High Treason (Johnathan Grave, #5)]]></title>
+<isbn>0786030194</isbn>
+<isbn13>9780786030194</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361744822s/17239895.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361744822m/17239895.jpg]]></image_url>
 <average_rating>4.02</average_rating>
-<ratings_count>191063</ratings_count>
+<ratings_count>126</ratings_count>
 <authors>
   <author>
-    <id>713</id>
-    <name>Lisa See</name>
+    <id>181831</id>
+    <name>John Gilstrap</name>
   </author>
 </authors>
 </book>
           <book>
-<id>5826</id>
-<title>Bel Canto</title>
-<isbn>0060838728</isbn>
-<isbn13>9780060838720</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1352997328s/5826.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1352997328m/5826.jpg]]></image_url>
-<average_rating>3.90</average_rating>
-<ratings_count>130782</ratings_count>
+<id>17910123</id>
+<title><![CDATA[The Black-Eyed Blonde: A Philip Marlowe Novel]]></title>
+<isbn>0805098143</isbn>
+<isbn13>9780805098143</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1386983910s/17910123.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1386983910m/17910123.jpg]]></image_url>
+<average_rating>3.66</average_rating>
+<ratings_count>160</ratings_count>
 <authors>
   <author>
-    <id>7136914</id>
-    <name>Ann Patchett</name>
+    <id>116405</id>
+    <name>Benjamin Black</name>
   </author>
 </authors>
 </book>
           <book>
-<id>43015</id>
-<title><![CDATA[A Long Way Gone: Memoirs of a Boy Soldier]]></title>
-<isbn>0374105235</isbn>
-<isbn13>9780374105235</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.12</average_rating>
-<ratings_count>64112</ratings_count>
+<id>10454420</id>
+<title><![CDATA[Blessed Are the Dead  (Detective Emmanuel Cooper #3)]]></title>
+<isbn>1451616929</isbn>
+<isbn13>9781451616927</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334914108s/10454420.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334914108m/10454420.jpg]]></image_url>
+<average_rating>4.01</average_rating>
+<ratings_count>232</ratings_count>
 <authors>
   <author>
-    <id>24189</id>
-    <name>Ishmael Beah</name>
+    <id>1288231</id>
+    <name>Malla Nunn</name>
   </author>
 </authors>
 </book>
           <book>
-<id>7039</id>
-<title><![CDATA[Tears of the Giraffe (No. 1 Ladies' Detective Agency, #2)]]></title>
-<isbn>0349116652</isbn>
-<isbn13>9780349116655</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.94</average_rating>
-<ratings_count>24759</ratings_count>
+<id>17269256</id>
+<title>The Honey Guide</title>
+<isbn>0297867954</isbn>
+<isbn13>9780297867951</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362994015s/17269256.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362994015m/17269256.jpg]]></image_url>
+<average_rating>3.87</average_rating>
+<ratings_count>112</ratings_count>
 <authors>
   <author>
-    <id>4738</id>
-    <name>Alexander McCall Smith</name>
+    <id>2062482</id>
+    <name>Richard Crompton</name>
   </author>
 </authors>
 </book>
           <book>
-<id>8874743</id>
-<title>When God Was a Rabbit</title>
-<isbn>0755379284</isbn>
-<isbn13>9780755379286</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1311417203s/8874743.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1311417203m/8874743.jpg]]></image_url>
-<average_rating>3.64</average_rating>
-<ratings_count>13989</ratings_count>
+<id>3741352</id>
+<title><![CDATA[Aldrig mere fri (Louise Rick, #4)]]></title>
+<isbn></isbn>
+<isbn13>9788770553407</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322752869s/3741352.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322752869m/3741352.jpg]]></image_url>
+<average_rating>3.58</average_rating>
+<ratings_count>132</ratings_count>
 <authors>
   <author>
-    <id>4197193</id>
-    <name>Sarah Winman</name>
+    <id>6549175</id>
+    <name>Sara Blædel</name>
   </author>
 </authors>
 </book>
           <book>
-<id>85301</id>
-<title>Unaccustomed Earth</title>
-<isbn>0676979343</isbn>
-<isbn13>9780676979343</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140s/85301.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320398140m/85301.jpg]]></image_url>
-<average_rating>4.10</average_rating>
-<ratings_count>42825</ratings_count>
+<id>12988422</id>
+<title><![CDATA[Red Cell (Kyra Stryker & Jonathan Burke, #1)]]></title>
+<isbn>1451661932</isbn>
+<isbn13>9781451661934</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327420125s/12988422.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327420125m/12988422.jpg]]></image_url>
+<average_rating>3.78</average_rating>
+<ratings_count>212</ratings_count>
 <authors>
   <author>
-    <id>3670</id>
-    <name>Jhumpa Lahiri</name>
+    <id>1416900</id>
+    <name>Mark Henshaw</name>
   </author>
 </authors>
 </book>
           <book>
-<id>14864</id>
-<title>Plain Truth</title>
-<isbn>0743275012</isbn>
-<isbn13>9780743275019</isbn13>
+<id>12362857</id>
+<title><![CDATA[Sail of Stone (Inspector Winter, #6)]]></title>
+<isbn>1451608500</isbn>
+<isbn13>9781451608502</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1344396015s/12362857.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1344396015m/12362857.jpg]]></image_url>
+<average_rating>3.38</average_rating>
+<ratings_count>256</ratings_count>
+<authors>
+  <author>
+    <id>72888</id>
+    <name>Åke Edwardson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>15033784</id>
+<title>Bolero</title>
+<isbn>1469210517</isbn>
+<isbn13>9781469210513</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1368421487s/15033784.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1368421487m/15033784.jpg]]></image_url>
+<average_rating>3.48</average_rating>
+<ratings_count>113</ratings_count>
+<authors>
+  <author>
+    <id>6209776</id>
+    <name>Joanie McDonell</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>11347954</id>
+<title>The Killing Song</title>
+<isbn>145165135X</isbn>
+<isbn13>9781451651355</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
 <average_rating>3.95</average_rating>
-<ratings_count>92123</ratings_count>
+<ratings_count>198</ratings_count>
 <authors>
   <author>
-    <id>7128</id>
-    <name>Jodi Picoult</name>
+    <id>645</id>
+    <name>P.J. Parrish</name>
   </author>
 </authors>
 </book>
           <book>
-<id>3153910</id>
-<title>The Art of Racing in the Rain</title>
-<isbn>1554681723</isbn>
-<isbn13>9781554681723</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1377206302s/3153910.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1377206302m/3153910.jpg]]></image_url>
-<average_rating>4.14</average_rating>
-<ratings_count>198083</ratings_count>
-<authors>
-  <author>
-    <id>194531</id>
-    <name>Garth Stein</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>11713</id>
-<title>The English Patient</title>
-<isbn>0771068719</isbn>
-<isbn13>9780771068713</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320527907s/11713.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320527907m/11713.jpg]]></image_url>
-<average_rating>3.86</average_rating>
-<ratings_count>57458</ratings_count>
-<authors>
-  <author>
-    <id>4030</id>
-    <name>Michael Ondaatje</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>153496</id>
-<title>Leo Africanus</title>
-<isbn>1561310220</isbn>
-<isbn13>9781561310227</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.15</average_rating>
-<ratings_count>2295</ratings_count>
-<authors>
-  <author>
-    <id>36378</id>
-    <name>Amin Maalouf</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>5159</id>
-<title>Here on Earth </title>
-<isbn>0425169693</isbn>
-<isbn13>9780425169698</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.64</average_rating>
-<ratings_count>26601</ratings_count>
-<authors>
-  <author>
-    <id>3502</id>
-    <name>Alice Hoffman</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>78987</id>
-<title><![CDATA[The Prodigal Daughter (Kane & Abel, #2)]]></title>
-<isbn>0312997140</isbn>
-<isbn13>9780312997144</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.88</average_rating>
-<ratings_count>14984</ratings_count>
-<authors>
-  <author>
-    <id>4820</id>
-    <name>Jeffrey Archer</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>4473</id>
-<title>A Prayer for Owen Meany</title>
-<isbn>0552135399</isbn>
-<isbn13>9780552135399</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260470010s/4473.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1260470010m/4473.jpg]]></image_url>
-<average_rating>4.22</average_rating>
-<ratings_count>154804</ratings_count>
-<authors>
-  <author>
-    <id>3075</id>
-    <name>John Irving</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>126005</id>
-<title>Hanna&apos;s Daughters</title>
-<isbn>0752849409</isbn>
-<isbn13>9780752849409</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.57</average_rating>
-<ratings_count>1826</ratings_count>
-<authors>
-  <author>
-    <id>72467</id>
-    <name>Marianne Fredriksson</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>5211</id>
-<title>A Fine Balance</title>
-<isbn>140003065X</isbn>
-<isbn13>9781400030651</isbn13>
-<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
-<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>4.32</average_rating>
-<ratings_count>65579</ratings_count>
-<authors>
-  <author>
-    <id>3539</id>
-    <name>Rohinton Mistry</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>92364</id>
-<title>Eye of the Needle</title>
-<isbn>006074815X</isbn>
-<isbn13>9780060748159</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327939511s/92364.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327939511m/92364.jpg]]></image_url>
+<id>16073015</id>
+<title><![CDATA[Anything but Civil (Hattie Davish Mystery, #2)]]></title>
+<isbn>0758276362</isbn>
+<isbn13>9780758276360</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1365188690s/16073015.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1365188690m/16073015.jpg]]></image_url>
 <average_rating>4.12</average_rating>
-<ratings_count>56961</ratings_count>
+<ratings_count>40</ratings_count>
 <authors>
   <author>
-    <id>3447</id>
-    <name>Ken Follett</name>
+    <id>5810152</id>
+    <name>Anna Loan-Wilsey</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>17214435</id>
+<title><![CDATA[Gone With the Woof (Melanie Travis Mysteries, #16)]]></title>
+<isbn>0758284527</isbn>
+<isbn13>9780758284525</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364182067s/17214435.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364182067m/17214435.jpg]]></image_url>
+<average_rating>3.78</average_rating>
+<ratings_count>120</ratings_count>
+<authors>
+  <author>
+    <id>26940</id>
+    <name>Laurien Berenson</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>15812854</id>
+<title><![CDATA[Killer Honeymoon (A Savannah Reid Mystery #18)]]></title>
+<isbn>0758276516</isbn>
+<isbn13>9780758276513</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1353220915s/15812854.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1353220915m/15812854.jpg]]></image_url>
+<average_rating>3.94</average_rating>
+<ratings_count>328</ratings_count>
+<authors>
+  <author>
+    <id>51483</id>
+    <name>G.A. McKevett</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>13550608</id>
+<title><![CDATA[A Dangerous Talent (Alix London, #1)]]></title>
+<isbn></isbn>
+<isbn13></isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332856156s/13550608.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332856156m/13550608.jpg]]></image_url>
+<average_rating>3.33</average_rating>
+<ratings_count>428</ratings_count>
+<authors>
+  <author>
+    <id>157986</id>
+    <name>Aaron Elkins</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>18318666</id>
+<title>Until Death</title>
+<isbn>1477849467</isbn>
+<isbn13>9781477849460</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1382922944s/18318666.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1382922944m/18318666.jpg]]></image_url>
+<average_rating>4.40</average_rating>
+<ratings_count>10</ratings_count>
+<authors>
+  <author>
+    <id>3437074</id>
+    <name>James L. Thane</name>
   </author>
 </authors>
 </book>
