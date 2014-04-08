@@ -18,10 +18,6 @@ app.get('/Output.xml', function(req, res){
 
 app.set('views', __dirname + '/views');
 app.engine('html', require('ejs').renderFile);
-app.get('/', function (req, res)
-{
-    res.render('StartPage.html');
-});
 
 app.post('/isbnResult', function (req, res)
 {
@@ -40,6 +36,15 @@ app.post('/ratingsInput', function (req, res)
 	});
 });
 
+app.get('/', function (req, res)
+{
+    res.render('test4.html');
+});
+
+app.get('/v1', function (req, res)
+{
+    res.render('StartPage.html');
+});
 
 app.get('/v2', function(req, res){
 	res.render('test2.html');
