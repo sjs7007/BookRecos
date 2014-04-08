@@ -21,3 +21,7 @@ Step 5 : Make it a web app
 Express : http://expressjs.com/guide.html
 
 http://stackoverflow.com/questions/15568851/how-i-can-send-data-from-html-form-to-node-js-function
+
+-----
+Modified fonts : http://stackoverflow.com/questions/18740757/using-a-different-font-with-twitter-bootstrap
+https://www.google.com/fonts#QuickUsePlace:quickUse/Family:

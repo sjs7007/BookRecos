@@ -6,57 +6,67 @@
     <method><![CDATA[book_isbn]]></method>
   </Request>
   <book>
-  <id>17978224</id>
-  <title>The Ghost Runner (Makana, #3)</title>
-  <isbn><![CDATA[1620403404]]></isbn>
-  <isbn13><![CDATA[9781620403402]]></isbn13>
+  <id>2122</id>
+  <title>The Fountainhead</title>
+  <isbn><![CDATA[0451191153]]></isbn>
+  <isbn13><![CDATA[9780451191151]]></isbn13>
   <asin><![CDATA[]]></asin>
-  <image_url>https://d202m5krfqbpi5.cloudfront.net/books/1376362134m/17978224.jpg</image_url>
-  <small_image_url>https://d202m5krfqbpi5.cloudfront.net/books/1376362134s/17978224.jpg</small_image_url>
-  <publication_year>2014</publication_year>
-  <publication_month>2</publication_month>
-  <publication_day>4</publication_day>
-  <publisher>Bloomsbury USA</publisher>
-  <language_code></language_code>
+  <image_url>https://www.goodreads.com/assets/nocover/111x148.png</image_url>
+  <small_image_url>https://www.goodreads.com/assets/nocover/60x80.png</small_image_url>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <publication_day>29</publication_day>
+  <publisher>Penguin Canada</publisher>
+  <language_code>en-GB</language_code>
   <is_ebook>false</is_ebook>
-  <description><![CDATA[It is 2002 and as tanks roll into the West Bank and the reverberations of 9/11 echo across the globe, tensions are running high on Cairo’s streets.<br><br>Private Investigator Makana, in exile from his native Sudan and increasingly haunted by memories of his wife and daughter, is shaken out of his despondency when a routine surveillance job leads him to the horrific murder of a teenage girl. In a country where honor killings are commonplace and the authorities seem all too eager to turn a blind eye, Makana determines to track down the perpetrator. He finds unexpected assistance in the shape of Azza, a woman who seems to share Makana’s hunger for justice.<br><br>Seeking answers in the dead girl’s past he travels to Siwa, an oasis town on the edge of the great Sahara Desert, where the law seems disturbingly far away and old grievances simmer just below the surface. As violence follows him through the twisting, sandblown streets and an old enemy lurks in the shadows, Makana discovers that the truth can be as deadly and as changeable as the desert beneath his feet.]]></description>
+  <description><![CDATA[When The Fountainhead was first published, Ayn Rand''s daringly original literary vision and her groundbreaking philosophy, Objectivism, won immediate worldwide interest and acclaim. This instant classic is the story of an intransigent young architect, his violent battle against conventional standards, and his explosive love affair with a beautiful woman who struggles to defeat him. This edition contains a special afterword by Rand's literary executor, Leonard Peikoff, which includes excerpts from Ayn Rand's own notes on the making of The Fountainhead. As fresh today as it was then, here is a novel about a hero-and about those who try to destroy him.]]></description>
   <work>
-  <best_book_id type="integer">17978224</best_book_id>
-  <books_count type="integer">3</books_count>
+  <best_book_id type="integer">2122</best_book_id>
+  <books_count type="integer">26</books_count>
   <default_chaptering_book_id type="integer" nil="true"/>
   <default_description_language_code nil="true"/>
-  <desc_user_id type="integer">-41</desc_user_id>
-  <id type="integer">25206731</id>
+  <desc_user_id type="integer">-30</desc_user_id>
+  <id type="integer">3331807</id>
   <media_type>book</media_type>
   <original_language_id type="integer" nil="true"/>
-  <original_publication_day type="integer">4</original_publication_day>
-  <original_publication_month type="integer">2</original_publication_month>
-  <original_publication_year type="integer">2014</original_publication_year>
-  <original_title></original_title>
-  <rating_dist>4:16|5:4|3:6|total:26</rating_dist>
-  <ratings_count type="integer">20</ratings_count>
-  <ratings_sum type="integer">80</ratings_sum>
-  <reviews_count type="integer">583</reviews_count>
-  <text_reviews_count type="integer">8</text_reviews_count>
+  <original_publication_day type="integer" nil="true"/>
+  <original_publication_month type="integer" nil="true"/>
+  <original_publication_year type="integer">1943</original_publication_year>
+  <original_title>The Fountainhead</original_title>
+  <rating_dist>3:29022|5:58202|2:12467|4:47905|1:12020|total:159616</rating_dist>
+  <ratings_count type="integer">179278</ratings_count>
+  <ratings_sum type="integer">683787</ratings_sum>
+  <reviews_count type="integer">272804</reviews_count>
+  <text_reviews_count type="integer">7766</text_reviews_count>
 </work>
-  <average_rating>4.00</average_rating>
-  <num_pages><![CDATA[432]]></num_pages>
-  <format><![CDATA[Hardcover]]></format>
-  <edition_information><![CDATA[]]></edition_information>
-  <ratings_count><![CDATA[18]]></ratings_count>
-  <text_reviews_count><![CDATA[8]]></text_reviews_count>
-  <url><![CDATA[https://www.goodreads.com/book/show/17978224-the-ghost-runner]]></url>
-  <link><![CDATA[https://www.goodreads.com/book/show/17978224-the-ghost-runner]]></link>
+  <average_rating>3.81</average_rating>
+  <num_pages><![CDATA[704]]></num_pages>
+  <format><![CDATA[Paperback]]></format>
+  <edition_information><![CDATA[Centennial Edition ]]></edition_information>
+  <ratings_count><![CDATA[173673]]></ratings_count>
+  <text_reviews_count><![CDATA[7022]]></text_reviews_count>
+  <url><![CDATA[https://www.goodreads.com/book/show/2122.The_Fountainhead]]></url>
+  <link><![CDATA[https://www.goodreads.com/book/show/2122.The_Fountainhead]]></link>
   <authors>
   <author>
-    <id>5022895</id>
-    <name>Parker Bilal</name>
-    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1391282914p5/5022895.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1391282914p2/5022895.jpg]]></small_image_url>
-    <link><![CDATA[https://www.goodreads.com/author/show/5022895.Parker_Bilal]]></link>
-    <average_rating>3.67</average_rating>
-    <ratings_count>269</ratings_count>
-    <text_reviews_count>97</text_reviews_count>
+    <id>432</id>
+    <name>Ayn Rand</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168729178p5/432.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1168729178p2/432.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/432.Ayn_Rand]]></link>
+    <average_rating>3.72</average_rating>
+    <ratings_count>481432</ratings_count>
+    <text_reviews_count>25764</text_reviews_count>
+  </author>
+  <author>
+    <id>1421</id>
+    <name>Leonard Peikoff</name>
+    <image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1348159070p5/1421.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/authors/1348159070p2/1421.jpg]]></small_image_url>
+    <link><![CDATA[https://www.goodreads.com/author/show/1421.Leonard_Peikoff]]></link>
+    <average_rating>3.74</average_rating>
+    <ratings_count>385001</ratings_count>
+    <text_reviews_count>18855</text_reviews_count>
   </author>
 </authors>
 
@@ -98,26 +108,26 @@
   }
 </style>
 <div id="goodreads-widget">
-  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/17978224-the-ghost-runner">The Ghost Runner Reviews</a></h1></div>
-  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1620403404&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_header"><h1><a href="https://www.goodreads.com/book/show/2122.The_Fountainhead">The Fountainhead Reviews</a></h1></div>
+  <iframe id="the_iframe" src="https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=0451191153&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000" width="565" height="400" frameborder="0"></iframe>
   <div id="gr_footer">
-    <a href="https://www.goodreads.com/book/show/17978224-the-ghost-runner?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+    <a href="https://www.goodreads.com/book/show/2122.The_Fountainhead?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
   </div>
 </div>
 
       ]]>
     </reviews_widget>
   <popular_shelves>
-      <shelf name="to-read" count="673"/>
-      <shelf name="mystery" count="6"/>
-      <shelf name="first-reads" count="3"/>
-      <shelf name="multicultural" count="1"/>
-      <shelf name="currently-reading" count="1"/>
-      <shelf name="new-recently-added" count="1"/>
-      <shelf name="adult-suspense" count="1"/>
-      <shelf name="adult-police-fic" count="1"/>
-      <shelf name="adult-lit-thrillers" count="1"/>
-      <shelf name="not-interested" count="1"/>
+      <shelf name="currently-reading" count="4888"/>
+      <shelf name="to-read" count="3817"/>
+      <shelf name="fiction" count="2542"/>
+      <shelf name="classics" count="1731"/>
+      <shelf name="favorites" count="1604"/>
+      <shelf name="philosophy" count="900"/>
+      <shelf name="literature" count="341"/>
+      <shelf name="classic" count="325"/>
+      <shelf name="novels" count="177"/>
+      <shelf name="politics" count="104"/>
   </popular_shelves>
   <book_links>
     <book_link>
@@ -198,319 +208,294 @@
 
   </book_links>
   <series_works>
-    <series_work>
-<id>533039</id>
-<user_position>3</user_position>
-<series>
-<id>96581</id>
-<title>
-<![CDATA[
-    Makana
-]]>
-</title>
-<description>
-<![CDATA[
-    Makana, a political refugee and former Sudanese police inspector, now a low-rent private investigator, in Cairo, Egypt:
-]]>
-</description>
-<note>
-<![CDATA[
-]]>
-</note>
-<series_works_count>3</series_works_count>
-<primary_work_count>3</primary_work_count>
-<numbered>true</numbered>
-</series>
-
-</series_work>
-
+    
   </series_works>
   <similar_books>
           <book>
-<id>17934372</id>
-<title><![CDATA[Destroyer Angel (Anna Pigeon, #17)]]></title>
-<isbn>0312614586</isbn>
-<isbn13>9780312614584</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1389414782s/17934372.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1389414782m/17934372.jpg]]></image_url>
-<average_rating>3.93</average_rating>
-<ratings_count>76</ratings_count>
-<authors>
-  <author>
-    <id>43613</id>
-    <name>Nevada Barr</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>16045222</id>
-<title><![CDATA[Massacre Pond (Mike Bowditch, #4)]]></title>
-<isbn>1250033934</isbn>
-<isbn13>9781250033932</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356403724s/16045222.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1356403724m/16045222.jpg]]></image_url>
-<average_rating>3.95</average_rating>
-<ratings_count>319</ratings_count>
-<authors>
-  <author>
-    <id>3090113</id>
-    <name>Paul Doiron</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>16219950</id>
-<title><![CDATA[Onion Street: A Moe Prager Mystery]]></title>
-<isbn>1440539464</isbn>
-<isbn13>9781440539466</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362344885s/16219950.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362344885m/16219950.jpg]]></image_url>
-<average_rating>4.04</average_rating>
-<ratings_count>81</ratings_count>
-<authors>
-  <author>
-    <id>138518</id>
-    <name>Reed Farrel Coleman</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>18079517</id>
-<title><![CDATA[Kill Fee (Stevens & Windermere, #3)]]></title>
-<isbn>0399165525</isbn>
-<isbn13>9780399165528</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372040788s/18079517.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1372040788m/18079517.jpg]]></image_url>
-<average_rating>3.71</average_rating>
-<ratings_count>49</ratings_count>
-<authors>
-  <author>
-    <id>4999197</id>
-    <name>Owen Laukkanen</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>17239895</id>
-<title><![CDATA[High Treason (Johnathan Grave, #5)]]></title>
-<isbn>0786030194</isbn>
-<isbn13>9780786030194</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361744822s/17239895.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1361744822m/17239895.jpg]]></image_url>
-<average_rating>4.02</average_rating>
-<ratings_count>126</ratings_count>
-<authors>
-  <author>
-    <id>181831</id>
-    <name>John Gilstrap</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>17910123</id>
-<title><![CDATA[The Black-Eyed Blonde: A Philip Marlowe Novel]]></title>
-<isbn>0805098143</isbn>
-<isbn13>9780805098143</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1386983910s/17910123.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1386983910m/17910123.jpg]]></image_url>
-<average_rating>3.66</average_rating>
-<ratings_count>160</ratings_count>
-<authors>
-  <author>
-    <id>116405</id>
-    <name>Benjamin Black</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>10454420</id>
-<title><![CDATA[Blessed Are the Dead  (Detective Emmanuel Cooper #3)]]></title>
-<isbn>1451616929</isbn>
-<isbn13>9781451616927</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334914108s/10454420.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1334914108m/10454420.jpg]]></image_url>
-<average_rating>4.01</average_rating>
-<ratings_count>232</ratings_count>
-<authors>
-  <author>
-    <id>1288231</id>
-    <name>Malla Nunn</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>17269256</id>
-<title>The Honey Guide</title>
-<isbn>0297867954</isbn>
-<isbn13>9780297867951</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362994015s/17269256.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1362994015m/17269256.jpg]]></image_url>
-<average_rating>3.87</average_rating>
-<ratings_count>112</ratings_count>
-<authors>
-  <author>
-    <id>2062482</id>
-    <name>Richard Crompton</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>3741352</id>
-<title><![CDATA[Aldrig mere fri (Louise Rick, #4)]]></title>
-<isbn></isbn>
-<isbn13>9788770553407</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322752869s/3741352.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1322752869m/3741352.jpg]]></image_url>
-<average_rating>3.58</average_rating>
-<ratings_count>132</ratings_count>
-<authors>
-  <author>
-    <id>6549175</id>
-    <name>Sara Blædel</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>12988422</id>
-<title><![CDATA[Red Cell (Kyra Stryker & Jonathan Burke, #1)]]></title>
-<isbn>1451661932</isbn>
-<isbn13>9781451661934</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327420125s/12988422.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327420125m/12988422.jpg]]></image_url>
-<average_rating>3.78</average_rating>
-<ratings_count>212</ratings_count>
-<authors>
-  <author>
-    <id>1416900</id>
-    <name>Mark Henshaw</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>12362857</id>
-<title><![CDATA[Sail of Stone (Inspector Winter, #6)]]></title>
-<isbn>1451608500</isbn>
-<isbn13>9781451608502</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1344396015s/12362857.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1344396015m/12362857.jpg]]></image_url>
-<average_rating>3.38</average_rating>
-<ratings_count>256</ratings_count>
-<authors>
-  <author>
-    <id>72888</id>
-    <name>Åke Edwardson</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>15033784</id>
-<title>Bolero</title>
-<isbn>1469210517</isbn>
-<isbn13>9781469210513</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1368421487s/15033784.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1368421487m/15033784.jpg]]></image_url>
-<average_rating>3.48</average_rating>
-<ratings_count>113</ratings_count>
-<authors>
-  <author>
-    <id>6209776</id>
-    <name>Joanie McDonell</name>
-  </author>
-</authors>
-</book>
-          <book>
-<id>11347954</id>
-<title>The Killing Song</title>
-<isbn>145165135X</isbn>
-<isbn13>9781451651355</isbn13>
+<id>125842</id>
+<title><![CDATA[A Bolt from the Blue and Other Essays]]></title>
+<isbn>1590170105</isbn>
+<isbn13>9781590170106</isbn13>
 <small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
 <image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
-<average_rating>3.95</average_rating>
-<ratings_count>198</ratings_count>
+<average_rating>3.17</average_rating>
+<ratings_count>24</ratings_count>
 <authors>
   <author>
-    <id>645</id>
-    <name>P.J. Parrish</name>
+    <id>7305</id>
+    <name>Mary McCarthy</name>
   </author>
 </authors>
 </book>
           <book>
-<id>16073015</id>
-<title><![CDATA[Anything but Civil (Hattie Davish Mystery, #2)]]></title>
-<isbn>0758276362</isbn>
-<isbn13>9780758276360</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1365188690s/16073015.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1365188690m/16073015.jpg]]></image_url>
-<average_rating>4.12</average_rating>
-<ratings_count>40</ratings_count>
+<id>99951</id>
+<title><![CDATA[Objectivism: The Philosophy of Ayn Rand]]></title>
+<isbn>0452011019</isbn>
+<isbn13>9780452011014</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.69</average_rating>
+<ratings_count>2716</ratings_count>
 <authors>
   <author>
-    <id>5810152</id>
-    <name>Anna Loan-Wilsey</name>
+    <id>1421</id>
+    <name>Leonard Peikoff</name>
   </author>
 </authors>
 </book>
           <book>
-<id>17214435</id>
-<title><![CDATA[Gone With the Woof (Melanie Travis Mysteries, #16)]]></title>
-<isbn>0758284527</isbn>
-<isbn13>9780758284525</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364182067s/17214435.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1364182067m/17214435.jpg]]></image_url>
-<average_rating>3.78</average_rating>
-<ratings_count>120</ratings_count>
+<id>479740</id>
+<title>The Archidamian War</title>
+<isbn>0801497140</isbn>
+<isbn13>9780801497148</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.55</average_rating>
+<ratings_count>195</ratings_count>
 <authors>
   <author>
-    <id>26940</id>
-    <name>Laurien Berenson</name>
+    <id>12805</id>
+    <name>Donald Kagan</name>
   </author>
 </authors>
 </book>
           <book>
-<id>15812854</id>
-<title><![CDATA[Killer Honeymoon (A Savannah Reid Mystery #18)]]></title>
-<isbn>0758276516</isbn>
-<isbn13>9780758276513</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1353220915s/15812854.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1353220915m/15812854.jpg]]></image_url>
-<average_rating>3.94</average_rating>
-<ratings_count>328</ratings_count>
+<id>733977</id>
+<title>The Little Locksmith</title>
+<isbn>1558612394</isbn>
+<isbn13>9781558612396</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354209337s/733977.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1354209337m/733977.jpg]]></image_url>
+<average_rating>3.71</average_rating>
+<ratings_count>235</ratings_count>
 <authors>
   <author>
-    <id>51483</id>
-    <name>G.A. McKevett</name>
+    <id>389496</id>
+    <name>Katharine Butler Hathaway</name>
   </author>
 </authors>
 </book>
           <book>
-<id>13550608</id>
-<title><![CDATA[A Dangerous Talent (Alix London, #1)]]></title>
+<id>290624</id>
+<title>Fat Land</title>
+<isbn>0141015403</isbn>
+<isbn13>9780141015408</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.51</average_rating>
+<ratings_count>1035</ratings_count>
+<authors>
+  <author>
+    <id>51735</id>
+    <name>Greg Critser</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>92286</id>
+<title><![CDATA[Novels 1930-1942: Dance Night / Come Back to Sorrento / Turn, Magic Wheel / Angels on Toast / A Time to Be Born (Library of America #126)]]></title>
+<isbn>1931082014</isbn>
+<isbn13>9781931082013</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.80</average_rating>
+<ratings_count>116</ratings_count>
+<authors>
+  <author>
+    <id>53013</id>
+    <name>Dawn Powell</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>990494</id>
+<title><![CDATA[Swimming with Giants: My Encounters with Whales, Dolphins and Seals]]></title>
+<isbn>1571312447</isbn>
+<isbn13>9781571312440</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.53</average_rating>
+<ratings_count>15</ratings_count>
+<authors>
+  <author>
+    <id>498550</id>
+    <name>Anne Collet</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>10387214</id>
+<title>The Art of Fiction</title>
+<isbn>1172438099</isbn>
+<isbn13>9781172438099</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.54</average_rating>
+<ratings_count>52</ratings_count>
+<authors>
+  <author>
+    <id>159</id>
+    <name>Henry James</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>300841</id>
+<title>A Mencken Chrestomathy</title>
+<isbn>0394752090</isbn>
+<isbn13>9780394752099</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1385143539s/300841.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1385143539m/300841.jpg]]></image_url>
+<average_rating>3.99</average_rating>
+<ratings_count>719</ratings_count>
+<authors>
+  <author>
+    <id>7805</id>
+    <name>H.L. Mencken</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>111723</id>
+<title>Pushkin: A Biography</title>
+<isbn>1400076528</isbn>
+<isbn13>9781400076529</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320457613s/111723.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320457613m/111723.jpg]]></image_url>
+<average_rating>3.89</average_rating>
+<ratings_count>44</ratings_count>
+<authors>
+  <author>
+    <id>64626</id>
+    <name>T.J. Binyon</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>1038223</id>
+<title>Brigadoon (Vocal Score)</title>
+<isbn>0769202225</isbn>
+<isbn13>9780769202228</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.46</average_rating>
+<ratings_count>46</ratings_count>
+<authors>
+  <author>
+    <id>5221</id>
+    <name>Alan Jay Lerner</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>2036549</id>
+<title>The Holy Barbarians</title>
 <isbn></isbn>
 <isbn13></isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332856156s/13550608.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1332856156m/13550608.jpg]]></image_url>
-<average_rating>3.33</average_rating>
-<ratings_count>428</ratings_count>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.55</average_rating>
+<ratings_count>176</ratings_count>
 <authors>
   <author>
-    <id>157986</id>
-    <name>Aaron Elkins</name>
+    <id>925942</id>
+    <name>Lawrence Lipton</name>
   </author>
 </authors>
 </book>
           <book>
-<id>18318666</id>
-<title>Until Death</title>
-<isbn>1477849467</isbn>
-<isbn13>9781477849460</isbn13>
-<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1382922944s/18318666.jpg]]></small_image_url>
-<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1382922944m/18318666.jpg]]></image_url>
-<average_rating>4.40</average_rating>
-<ratings_count>10</ratings_count>
+<id>379255</id>
+<title>Monsieur Proust</title>
+<isbn>1590170598</isbn>
+<isbn13>9781590170595</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320487419s/379255.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320487419m/379255.jpg]]></image_url>
+<average_rating>3.90</average_rating>
+<ratings_count>192</ratings_count>
 <authors>
   <author>
-    <id>3437074</id>
-    <name>James L. Thane</name>
+    <id>15969</id>
+    <name>Celeste Albaret</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>40065</id>
+<title>The Passion of Ayn Rand</title>
+<isbn>038524388X</isbn>
+<isbn13>9780385243889</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320509121s/40065.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1320509121m/40065.jpg]]></image_url>
+<average_rating>3.62</average_rating>
+<ratings_count>974</ratings_count>
+<authors>
+  <author>
+    <id>22481</id>
+    <name>Barbara Branden</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>165251</id>
+<title><![CDATA[Song of the Simple Truth: The Complete Poems of Julia de Burgos]]></title>
+<isbn>1880684241</isbn>
+<isbn13>9781880684245</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.80</average_rating>
+<ratings_count>219</ratings_count>
+<authors>
+  <author>
+    <id>96068</id>
+    <name>Julia de Burgos</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>72716</id>
+<title>Extravagance</title>
+<isbn>0767913310</isbn>
+<isbn13>9780767913317</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1369860010s/72716.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1369860010m/72716.jpg]]></image_url>
+<average_rating>3.31</average_rating>
+<ratings_count>262</ratings_count>
+<authors>
+  <author>
+    <id>41147</id>
+    <name>Gary Krist</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>77956</id>
+<title>Lancelot</title>
+<isbn>0312243073</isbn>
+<isbn13>9780312243074</isbn13>
+<small_image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327886212s/77956.jpg]]></small_image_url>
+<image_url><![CDATA[https://d202m5krfqbpi5.cloudfront.net/books/1327886212m/77956.jpg]]></image_url>
+<average_rating>3.74</average_rating>
+<ratings_count>1394</ratings_count>
+<authors>
+  <author>
+    <id>337</id>
+    <name>Walker Percy</name>
+  </author>
+</authors>
+</book>
+          <book>
+<id>419916</id>
+<title>Just a Couple of Days</title>
+<isbn>0156031221</isbn>
+<isbn13>9780156031226</isbn13>
+<small_image_url><![CDATA[https://www.goodreads.com/assets/nocover/60x80.png]]></small_image_url>
+<image_url><![CDATA[https://www.goodreads.com/assets/nocover/111x148.png]]></image_url>
+<average_rating>3.70</average_rating>
+<ratings_count>1071</ratings_count>
+<authors>
+  <author>
+    <id>236986</id>
+    <name>Tony Vigorito</name>
   </author>
 </authors>
 </book>
