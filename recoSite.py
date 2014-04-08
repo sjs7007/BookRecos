@@ -114,3 +114,15 @@ for x in range(1,24):
 tree = ET.ElementTree(root)
 tree.write("pyCreatedXML.xml")
 
+"""
+Sample output:-
+
+python recoSite.py 5 2 4 3 2 2 1 1 6 3 7 1 9 1 10 1 11 1 12 1 13 1 14 1 15 1 16 1 17 1 18 1 20 1 21 1
+We recommend the following books :
+Twisted sisters , ISBN :  0451239652
+Dead silent , ISBN :  1408327562
+The fountainhead , ISBN :  0451191153
+Illusions , ISBN :  0099427869
+One , ISBN :  0330311735
+
+"""
