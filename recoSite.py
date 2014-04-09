@@ -1,4 +1,4 @@
-# program portion to calculate probability that active user is of same personality types as some other user
+# complete program
 #from part6.py
 import math #for exponent 
 import csv #for reading csb database
@@ -13,16 +13,17 @@ def readDB(allUsers,fileName):
 	    		for col in reader:
 	        		temp.append(col[i])
 	    	allUsers.append(temp)
-		#print allUsers[i-2]
 
-allUsers=[]
-readDB(allUsers,'BookDB.csv')
+#ALGORITHMIC PORTION STARTS
+
+allUsers=[] #used to store data from csv
+readDB(allUsers,'BookDB.csv') 
 #print allUsers
 
 Booklists=['BookName','Asylum','Fire and blood','Twisted sisters','Moth and Spark','Dangerous Illusions','The Black-Eyed Blonde','The ghost runner','Dead silent','Before we met','I forgot to remember','Sixth extinction','Wild Things','Alienated','Annhilation','Flight of the silvers','Influx','Tuesdays with Morrie','The alchemist','The fountainhead','Jonathan Livingston Seagull','Mahashweta','Illusions','One','The sound of letting go','Sherlock Holmes and the Vampires of London']
 ISBN=['ISBN','1599907844','0825460131','0451239652','0670015709','1940521645','0805098143','1620403404','1408327562','1620402750','1451685815','0805092994','0451415191','1423170288','0374104093','0399164987','0525953183','0751529818','0061122416','0451191153','0743278909','8126417463','0099427869','0330311735','0670015539','1616552662']
 
-def equation1(x,y): #x=actual rating,y=true rating
+def equation1(x,y): #x=actual rating,y=true rating, Corresponding to equation 1 from paper
 	x_y = x - y
 	partPersonality = math.exp(-(x_y)*(x_y)/12.5) # 12.5 = 2 sigma^2 where sigma = free parameter
 	return partPersonality
@@ -35,12 +36,12 @@ probabilityList = [] #probability that current user is similar to ith user
 
 countRatings = len(sys.argv)-1 
 current = 1
-while(current<=countRatings):
+while(current<=countRatings): #storing current user's ratings taken as input
 	currentUser[int(sys.argv[current])]=sys.argv[current+1]
 	Final[int(sys.argv[current])]=sys.argv[current+1]
 	current=current+2
 
-for i in range (0,nUsers):
+for i in range (0,nUsers): #Corresponding to equation 3 from paper
 	probabilityList.append(1)
 	for j in range (1,nReviews+1): #NOTE : Start from 1 because 1st coloumn has userNumber
 		temp = currentUser[j]# current user's rating for jth movie
@@ -55,7 +56,7 @@ for i in range (0,nUsers):
 	else:
 		probabilityList[i] = 0
 
-for x in range(1,24):
+for x in range(1,nReviews): #Corresponding to equation 4 from paper
 	if currentUser[x]=="null":
 	 	booknumber=x
 	 	probabilityDistResult=[]
@@ -74,6 +75,8 @@ for x in range(1,24):
 				finalRating = i+1
 
 		Final[booknumber]=finalRating
+
+#ALGORITHMIC PORTION ENDS
 
 
 root = ET.Element("root")
