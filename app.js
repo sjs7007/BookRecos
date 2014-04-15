@@ -64,7 +64,7 @@ app.get('/v4', function(req, res){
 });
 
 app.get('/v5', function(req, res){
-	res.render('withImages.html');
+	res.render('test5.html');
 });
 
 var server = app.listen(process.env.PORT||3000, function() {
