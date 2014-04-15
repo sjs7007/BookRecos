@@ -59,6 +59,13 @@ app.get('/v4', function(req, res){
 });
 
 
+app.get('/v4', function(req, res){
+	res.render('test4.html');
+});
+
+app.get('/v5', function(req, res){
+	res.render('withImages.html');
+});
 
 var server = app.listen(process.env.PORT||3000, function() {
 	console.log('Listening on port %d', server.address().port);
